@@ -8,17 +8,17 @@ https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Education",Canal Educação (720p)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLiveBrazil2.br" tvg-logo="" group-title="Undefined",Cartoon Network FreeLive Brazil 2 (720p)
+#EXTINF:-1 tvg-id="CartoonNetworkLiveBrazil2.br" tvg-logo="" group-title="Infantil",Cartoon Network FreeLive Brazil 2 (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLiveBrazil.br" tvg-logo="" group-title="Undefined",Cartoon Network FreeLive Brazil (720p)
+#EXTINF:-1 tvg-id="CartoonNetworkLiveBrazil.br" tvg-logo="" group-title="Infantil",Cartoon Network FreeLive Brazil (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonitoLiveBrazil.br" tvg-logo="" group-title="Undefined",Cartoonito FreeLive Brazil (720p)
+#EXTINF:-1 tvg-id="CartoonitoLiveBrazil.br" tvg-logo="" group-title="Infantil",Cartoonito FreeLive Brazil (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="Movies",Classique TV 2 (480p)
+#EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="Filmes",Classique TV 2 (480p)
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Movies",Classique TV (360p)
+#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Filmes",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Movies",Classique TV Western (360p)
+#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Filmes",Classique TV Western (360p)
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="News",CNN Brasil (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
@@ -28,13 +28,13 @@ https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Music",EnerGeek Radio (936p)
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Filmes",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ForaTedioTV.br" tvg-logo="https://i.imgur.com/R9ul4T1.png" group-title="Comedy",Fora Tédio TV (720p) [Not 24/7]
 http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
 #EXTINF:-1 tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="Animation",Geekdot (720p)
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="GhostTV.br" tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="Movies",Ghost TV (712p) [Not 24/7]
+#EXTINF:-1 tvg-id="GhostTV.br" tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="Filmes",Ghost TV (712p) [Not 24/7]
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Religious",Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
@@ -64,7 +64,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="NickClassico.br" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="Kids",Pluto TV Classic Nick (Brazil) (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.br" tvg-logo="https://i.imgur.com/HkCV9cQ.png" group-title="Movies",Pluto TV Filmes Ação (720p)
+#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.br" tvg-logo="https://i.imgur.com/HkCV9cQ.png" group-title="Filmes",Pluto TV Filmes Ação (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="FilmesSuspenseBrazil.br" tvg-logo="" group-title="Undefined",Pluto TV Filmes Suspense (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -112,7 +112,7 @@ https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM10HD.br" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="News",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 tvg-id="TVCinec.br" tvg-logo="https://i.imgur.com/Svm5pun.png" group-title="Movies",TV Cinec (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVCinec.br" tvg-logo="https://i.imgur.com/Svm5pun.png" group-title="Filmes",TV Cinec (240p) [Not 24/7]
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:-1 tvg-id="TVClube.br" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Undefined",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
@@ -266,26 +266,26 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN SP
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio", CBN SP
 https://live-cm-ah-10-37.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTAtMzcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjgzODczNjI2LCJpYXQiOjE2ODM3ODcyMjYsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvY2Juc3AyNGhhL3BsYXlsaXN0Lm0zdTgifQ.eU9MwICdJCzdD2rya6d4W1zf09d6QVM7GjnMJg38HrFms5QEpwuIA0SIQPEnehln0XZm8IhTRZjfPN15p4LB0A9bwS547g7zbwTRvdsdBFky6MEMHnOM8zQbUtXJ9P6VkUN8fJgEa_vu01L36feb_4WfSZ0HN0lLG_5O0TnGShJJ2yVhe4EkU8H4yL4RcHVK0eB9AQCyQp-enTuCL0R192qO2yfZozoasRWoVsfn5t54M14-tAszceGzcHoLebXtnv4aZpHUzJbCpbHvtT_XCShR-Pt7zfmGhPZJ_s1_9NInapqwFWAW2Cax_pim4cDyzxgJPwy35K3iQRSbHZBPsA/nu/f(bMin=2000,dvr=120,i=2)/cbnsp24ha/playlist.m3u8
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="Comédia",Pegadinhas
+#EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="Comédia", Pegadinhas
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Czz2exp.png" group-title="Historia",NATURE TV
+#EXTINF:-1 tvg-logo="https://imgur.com/Czz2exp.png" group-title="Historia", NATURE TV
 https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Ho4Y7ru.png" group-title="Infantil",ANIME ZONE TV
+#EXTINF:-1 tvg-logo="https://imgur.com/Ho4Y7ru.png" group-title="Infantil", ANIME ZONE TV
 https://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Series",TV SERIES 1 AS PANTERAS
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Series", TV SERIES 1 AS PANTERAS
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Series",TV SERIES 2 MULHER BIONICA
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="Series", TV SERIES 2 MULHER BIONICA
 https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VYoKxBj.png" group-title="Series",TV CHANNEL NETWORK
+#EXTINF:-1 tvg-logo="https://imgur.com/VYoKxBj.png" group-title="Series", TV CHANNEL NETWORK
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="Filmes",WEB TV CINE
+#EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="Filmes", WEB TV CINE
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wBGFNXG.png" group-title="Filmes", TELE WEB TV
@@ -294,53 +294,296 @@ https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e0VQVhW.png" group-title="Filmes", WEB TV XTREME
 https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Filmes",CLASSIQUE TV
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Filmes", CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Filmes",CLASSIQUE TV 2
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Filmes", CLASSIQUE TV 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Filmes",CLASSIQUE TV WESTERN
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Filmes", CLASSIQUE TV WESTERN
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/CzlX7P6.png" group-title="Filmes", GHOST TV 
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/6KHGXbM.png" group-title="Filmes",TCM 10
+#EXTINF:-1 tvg-logo="https://imgur.com/6KHGXbM.png" group-title="Filmes", TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2yPvv6T.png" group-title="Filmes",CINE LIVRE 2
+#EXTINF:-1 tvg-logo="https://imgur.com/2yPvv6T.png" group-title="Filmes", CINE LIVRE 2
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/eKgvDUU.png" group-title="Filmes",247 RETRO TV
+#EXTINF:-1 tvg-logo="https://imgur.com/eKgvDUU.png" group-title="Filmes", 247 RETRO TV
 http://dag.total-stream.net/dag1.m3u8?sid=ret&cid=dai&auth=&auth=c3RpbWU9MTU4MDU2NTczOSZ2YWxpZGl0eT01JmFnbj0wJmNvbmY9cDAwJnNpZ249MTdmZGI3MTEzY2U5NDFlMGQ5NDc0Njc2MmU3YjE3M2Y=
 #EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="Música", TV VIDEONEWS
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/q2lfDgx.png" group-title="Música",ZAPPING MUSIC
+#EXTINF:-1 tvg-logo="https://imgur.com/q2lfDgx.png" group-title="Música", ZAPPING MUSIC
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCT8vv1.png" group-title="Música", TV ALVORADA SERTANEJA
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qy8Ab43.png" group-title="Música",TV MAXIMA
+#EXTINF:-1 tvg-logo="https://imgur.com/qy8Ab43.png" group-title="Música", TV MAXIMA
 https://tvdatta.com:3279/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title="Música", 88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="Música",POWER TV
+#EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="Música", POWER TV
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="Música",TV 538
+#EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="Música", TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wgTyf6P.png" group-title="Música",4FUN TV
+#EXTINF:-1 tvg-logo="https://imgur.com/wgTyf6P.png" group-title="Música", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/UoI90JJ.png" group-title="Música",ON FM TV
+#EXTINF:-1 tvg-logo="https://imgur.com/UoI90JJ.png" group-title="Música", ON FM TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pbvkmrF.png" group-title="Música",RU TV
+#EXTINF:-1 tvg-logo="https://imgur.com/pbvkmrF.png" group-title="Música", RU TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="Música",POWER TV
+#EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="Música", POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OA7DMUk.png" group-title="Música", LFM TV
+#EXTINF:-1 tvg-logo="https://imgur.com/OA7DMUk.png" group-title="Música",  LFM TV
 https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="Música",PORTAL FOXMIX
+#EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="Música", PORTAL FOXMIX
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="Música",TIERRA MIA TV
+#EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="Música", TIERRA MIA TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/p22Yewv.png" group-title="Música",CATEDRAL DO ROCK TV
+#EXTINF:-1 tvg-logo="https://imgur.com/p22Yewv.png" group-title="Música", CATEDRAL DO ROCK TV
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uG6Wmfv.png" group-title="Música",RADIO 21
+#EXTINF:-1 tvg-logo="https://imgur.com/uG6Wmfv.png" group-title="Música", RADIO 21
 https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hqUiip9.png" group-title="Aberto", Globo SP
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/2.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oP38DSU.png" group-title="Aberto", Globo Internacional
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/603.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yW7Bqfc.png" group-title="Aberto", Record
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/6.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PpfTnCE.png" group-title="Aberto", Band
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/5.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TGFXo3M.png" group-title="Aberto", SBT
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/3.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dcaWHDT.png" group-title="Aberto", RedeTV!
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/4.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/tXddWe7.png" group-title="Aberto", TV Cultura
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FSMTaN1.png" group-title="Aberto", Canal Futura
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Logo_of_Curta%21.svg" group-title="Entretenimento", Curta!
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/562.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/NBR_Logo.svg" group-title="Aberto", NBR
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/572.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="Filme", Telecine Action
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/9.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="Filme", Telecine Premium
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="Filme", Telecine Touch
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/12.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Telecine_Fun_%282019%29.svg" group-title="Filme", Telecine Fun
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/10.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mundodastribos.com/2020/12/veja-programa%C3%A7%C3%A3o-telecine-pipoca-1.png" group-title="Filme", Telecine Pipoca
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/11.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="Filme", Telecine Cult
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/13.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="Filme", HBO
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/14.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/640px-HBO2_logo.png" group-title="Filme",HBO 2
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/15.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Filme", HBO Plus
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/18.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Filme", HBO Signature
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/16.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="Filme", HBO Family
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/17.m3u8
+#EXTINF:-1,HBO Plus*e
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/568.m3u8
+#EXTINF:-1,Universal
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/22.m3u8
+#EXTINF:-1,TNT Séries
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/101.m3u8
+#EXTINF:-1,TNT
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/30.m3u8
+#EXTINF:-1,TCM
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/35.m3u8
+#EXTINF:-1,Studio Universal
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/32.m3u8
+#EXTINF:-1,Max Prime
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/24.m3u8
+#EXTINF:-1,Max
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/23.m3u8
+#EXTINF:-1,TBS
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/33.m3u8
+#EXTINF:-1,Warner
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/26.m3u8
+#EXTINF:-1,Paramount Channel
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/34.m3u8
+#EXTINF:-1,Fox
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/20.m3u8
+#EXTINF:-1,FOX Action
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/595.m3u8
+#EXTINF:-1,Fox 1
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/600.m3u8
+#EXTINF:-1,Space
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/21.m3u8
+#EXTINF:-1,Sony
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/28.m3u8
+#EXTINF:-1,Megapix
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/19.m3u8
+#EXTINF:-1,FX
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/27.m3u8
+#EXTINF:-1,AXN
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/29.m3u8
+#EXTINF:-1,Max Up
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/25.m3u8
+#EXTINF:-1,I sat
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/109.m3u8
+#EXTINF:-1,Cinemax
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/31.m3u8
+#EXTINF:-1,SporTV
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/55.m3u8
+#EXTINF:-1,SporTV 2
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/56.m3u8
+#EXTINF:-1,SporTV 3
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/57.m3u8
+#EXTINF:-1,SporTV 2 Alternativo
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/580.m3u8
+#EXTINF:-1,SporTV Alternativo
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/581.m3u8
+#EXTINF:-1,Canal Brasil
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/112.m3u8
+#EXTINF:-1,Fox Sports
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/63.m3u8
+#EXTINF:-1,Fox Sports 2
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/64.m3u8
+#EXTINF:-1,ESPN
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/59.m3u8
+#EXTINF:-1,ESPN+
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/60.m3u8
+#EXTINF:-1,ESPN Brasil
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/61.m3u8
+#EXTINF:-1,Band Sports
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/58.m3u8
+#EXTINF:-1,Ei Maxx
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/65.m3u8
+#EXTINF:-1,Ei Maxx 2
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/66.m3u8
+#EXTINF:-1,Esporte Interativo
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/67.m3u8
+#EXTINF:-1,Combate
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/80.m3u8
+#EXTINF:-1,Premiere Clubes
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/71.m3u8
+#EXTINF:-1,Premiere 9
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/79.m3u8
+#EXTINF:-1,Premiere 8
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/78.m3u8
+#EXTINF:-1,Premiere 7
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/77.m3u8
+#EXTINF:-1,Premiere 6
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/76.m3u8
+#EXTINF:-1,Premiere 5
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/75.m3u8
+#EXTINF:-1,Premiere 4
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/74.m3u8
+#EXTINF:-1,Premiere 3
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/73.m3u8
+#EXTINF:-1,Premiere 2
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/72.m3u8
+#EXTINF:-1,Off
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/62.m3u8
+#EXTINF:-1,Woohoo
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/96.m3u8
+#EXTINF:-1,Bis
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/37.m3u8
+#EXTINF:-1,Multishow
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/39.m3u8
+#EXTINF:-1,MTV
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/38.m3u8
+#EXTINF:-1,Music Box Brasil
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/106.m3u8
+#EXTINF:-1,Lifetime
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/570.m3u8
+#EXTINF:-1,Play TV
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/573.m3u8
+#EXTINF:-1,Vh1 Mega hits
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/98.m3u8
+#EXTINF:-1,TLC
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/44.m3u8
+#EXTINF:-1,Viva
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/36.m3u8
+#EXTINF:-1,GNT
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/40.m3u8
+#EXTINF:-1,Fox Life
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/43.m3u8
+#EXTINF:-1,Sic Internacional
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/103.m3u8
+#EXTINF:-1,Comedy Central
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/111.m3u8
+#EXTINF:-1,Arte 1
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/113.m3u8
+#EXTINF:-1,TruTV
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/100.m3u8
+#EXTINF:-1,Tooncast
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/97.m3u8
+#EXTINF:-1,Syfy
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/102.m3u8
+#EXTINF:-1,Disney XD
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/85.m3u8
+##EXTINF:-1,Disney Junior
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/84.m3u8
+#EXTINF:-1,Disney Channel
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/86.m3u8
+#EXTINF:-1,Nick Jr.
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/87.m3u8
+#EXTINF:-1,Nickelodeon
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/83.m3u8
+#EXTINF:-1,Discovery Kids
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/88.m3u8
+#EXTINF:-1,Gloob
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/81.m3u8
+#EXTINF:-1,Boomerang
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/89.m3u8
+#EXTINF:-1,Cartoon Network
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/82.m3u8
+#EXTINF:-1,Nat Geo
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/45.m3u8
+#EXTINF:-1,NatGeo Wild
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/597.m3u8
+#EXTINF:-1,History
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/52.m3u8
+#EXTINF:-1,H2
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/53.m3u8
+#EXTINF:-1,Animal Planet
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/51.m3u8
+#EXTINF:-1,A&E
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/41.m3u8
+#EXTINF:-1,Discovery Channel
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/46.m3u8
+#EXTINF:-1,Discovery Turbo
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/49.m3u8
+#EXTINF:-1,Discovery Science
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/54.m3u8
+#EXTINF:-1,ID - Investigação Discovery
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/47.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/48.m3u8
+#EXTINF:-1,Discovery Civilization
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/50.m3u8
+#EXTINF:-1,E!
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/42.m3u8
+#EXTINF:-1,Fish TV
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/110.m3u8
+#EXTINF:-1,Record News
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/69.m3u8
+#EXTINF:-1,Band News
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/70.m3u8
+#EXTINF:-1,Globo News
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/68.m3u8
+#EXTINF:-1,Band Alternativo
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/560.m3u8
+#EXTINF:-1,Food Network
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/563.m3u8
+#EXTINF:-1,Prime Box Brasil
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/104.m3u8
+#EXTINF:-1,RBI
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/575.m3u8
+#EXTINF:-1,BBB
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/591.m3u8
+#EXTINF:-1,Playboy TV
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/90.m3u8
+#EXTINF:-1,Sexy Hot
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/91.m3u8
+#EXTINF:-1,Sextreme
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/92.m3u8
