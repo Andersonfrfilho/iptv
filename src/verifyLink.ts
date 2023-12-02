@@ -1,19 +1,20 @@
 import axios from "axios";
+import { ElementDto } from ".";
 
-export async function verifyLinks(links: string[]) {
-  const linksOffline: string[] = [];
+export async function getLinksOnline(
+  links: ElementDto[]
+): Promise<ElementDto[]> {
+  const newList = [];
 
-  const verifiesLinks = links.map(async (link) => {
+  for (let index = 0; index < links.length; index++) {
     try {
-      console.log(link);
-      await axios.head(link);
-      console.log("falhow");
+      await axios.head(links[index].url);
+      newList.push(links[index]);
     } catch (error) {
       // Se a solicitação falhar, consideramos o link offline
-      linksOffline.push(link);
+    } finally {
+      console.log(((index * 100) / links.length).toFixed(2) + "%");
     }
-  });
-  await Promise.all(verifiesLinks);
-
-  return linksOffline;
+  }
+  return newList;
 }
