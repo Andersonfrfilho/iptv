@@ -41,7 +41,10 @@ async function main() {
                     arrayString[index].additional.push(chunkString)) || [
                     chunkString,
                   ];
-                } else if (chunkString.endsWith(".m3u8")) {
+                } else if (
+                  chunkString.endsWith(".m3u8") ||
+                  chunkString.endsWith(".mp4")
+                ) {
                   data.url = chunkString;
                 }
                 arrayString[index] = Object.assign(
@@ -76,7 +79,6 @@ async function main() {
       }
     }
   );
-  console.log(arrayStringList);
   const linksWorker = await getLinksOnline(arrayStringList);
   const fileListPath = path.resolve("newList.m3u");
   let fileWriteStream = fs.createWriteStream(fileListPath);
