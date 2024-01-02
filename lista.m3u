@@ -2238,3 +2238,979 @@ http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
 http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
 #EXTINF:-1  group-title="Filmes Dublado"  tvg-logo="http://images-br-am.crackle.com/1/3/v6/01zlf_tnl_210x118.jpg?ts=20140530224248",A Guerra de Hart
 http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
+
+######################## Testando canais
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | AMC ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/2e5b2c5d03ddce773089fce1cdf99d47.png" group-title="BRAZIL",ʙʀ | AMC ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73255
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Animal Planet ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/94d444633e1a3c2b5a566695505e3280.png" group-title="BRAZIL",ʙʀ | Animal Planet ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73256
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | AXn ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/277454935850005d69bdc7704f7ad449.png" group-title="BRAZIL",ʙʀ | AXn ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73257
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Band ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/85dedd3561de3252c9289246ec1f350e.png" group-title="BRAZIL",ʙʀ | Band ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73258
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Band News ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/f61cb8e633dea0cc17385cbe00bbecb9.png" group-title="BRAZIL",ʙʀ | Band News ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73259
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Band Sports ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/746b84cf1a622f4128065224e495b812.png" group-title="BRAZIL",ʙʀ | Band Sports ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73260
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Discovery Channel ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/a281ac3e2b560404c8ca6b83f1855d5b.png" group-title="BRAZIL",ʙʀ | Discovery Channel ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73265
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Discovery Home & Healt ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/bd3a55fea5ea183d6202b51e34eca173.png" group-title="BRAZIL",ʙʀ | Discovery Home & Healt ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73266
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Discovery Turbo ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/18004a2f0d40d8fa1f4bec6211c04128.png" group-title="BRAZIL",ʙʀ | Discovery Turbo ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73268
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | ESPN 2 ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/0c9b9f4ec1a239264f3c9f3e620fd47d.png" group-title="BRAZIL",ʙʀ | ESPN 2 ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73270
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | ESPN 1 ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/3bebafa183c75b6f7db55bca9e3eb09c.png" group-title="BRAZIL",ʙʀ | ESPN 1 ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73271
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | ESPN 4 ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/2a4c02767e0025b94296b8acadc2347b.png" group-title="BRAZIL",ʙʀ | ESPN 4 ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73273
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Gloobo Brasilia ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/b113df6f6ebe601faeb7d4ca190db408.png" group-title="BRAZIL",ʙʀ | Gloobo Brasilia ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73274
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Globosat ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/b113df6f6ebe601faeb7d4ca190db408.png" group-title="BRAZIL",ʙʀ | Globosat ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73276
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | HBO Plus ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/143aed9af04e1b39ad346a3e14ab8313.png" group-title="BRAZIL",ʙʀ | HBO Plus ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73277
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Premiere 2 ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/5572f2efe25c0de6410ec45fc46e319a.png" group-title="BRAZIL",ʙʀ | Premiere 2 ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73278
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Premiere 3 ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/5572f2efe25c0de6410ec45fc46e319a.png" group-title="BRAZIL",ʙʀ | Premiere 3 ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73279
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Premiere 5 ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/5572f2efe25c0de6410ec45fc46e319a.png" group-title="BRAZIL",ʙʀ | Premiere 5 ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73281
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Premieres 6 ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/5572f2efe25c0de6410ec45fc46e319a.png" group-title="BRAZIL",ʙʀ | Premieres 6 ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73282
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Premiere 7 ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/5572f2efe25c0de6410ec45fc46e319a.png" group-title="BRAZIL",ʙʀ | Premiere 7 ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73283
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Premiere Clubes ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/5572f2efe25c0de6410ec45fc46e319a.png" group-title="BRAZIL",ʙʀ | Premiere Clubes ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73284
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Record News ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/97898b49ea8a3d2b59d32d918238ab1e.png" group-title="BRAZIL",ʙʀ | Record News ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73286
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Sony Channel ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/ecc28e75470ca7f9f1c9e570cdb23620.png" group-title="BRAZIL",ʙʀ | Sony Channel ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73288
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Space ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/fe5fc871036e95a8616be77c72f0f20e.png" group-title="BRAZIL",ʙʀ | Space ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73289
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | SportTV 1 ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/ac59bb28fdd7cbd24a9da2e16e244886.png" group-title="BRAZIL",ʙʀ | SportTV 1 ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73290
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Sportv 2 ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/e07bdccc734d10d2464ae0b6bf143fb7.png" group-title="BRAZIL",ʙʀ | Sportv 2 ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73291
+#EXTINF:-1 tvg-id="" tvg-name="ʙʀ | Sportv 3 ʜᴅ" tvg-logo="http://boxdigital.xyz:8080/images/7e4d90b0a43f80a688d0cd916f8ba75c.png" group-title="BRAZIL",ʙʀ | Sportv 3 ʜᴅ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73292
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E HD" tvg-logo="" group-title="BRAZIL",BR: A&E HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191479
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD HD" tvg-logo="" group-title="BRAZIL",BR: RECORD HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191480
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS" tvg-logo="http://boxdigital.xyz:8080/images/a6442b649d085b1fc0c07975ac460d7e.png" group-title="BRAZIL",BR: RECORD NEWS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191481
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO HD" tvg-logo="http://boxdigital.xyz:8080/images/90a2187c01df848b26f71d8c10de9a31.png" group-title="BRAZIL",BR: GLOBO HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191482
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO MINAS FHD" tvg-logo="" group-title="BRAZIL",BR: GLOBO MINAS FHD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191483
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS HD" tvg-logo="http://boxdigital.xyz:8080/images/4d9981992c8a04acc09b4736be6d3630.png" group-title="BRAZIL",BR: GLOBO NEWS HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191484
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE HD" tvg-logo="http://boxdigital.xyz:8080/images/d024ecd5ad0d6ced14685e59f08c1df1.png" group-title="BRAZIL",BR: COMBATE HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191485
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2 HD" tvg-logo="http://boxdigital.xyz:8080/images/7544d4dabf65fe6156b943f65d0ee644.png" group-title="BRAZIL",BR: PREMIERE 2 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191486
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN HD" tvg-logo="http://boxdigital.xyz:8080/images/70e7fd03e2111dd8989e70e9c90f4c72.png" group-title="BRAZIL",BR: ESPN HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191487
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 HD" tvg-logo="http://boxdigital.xyz:8080/images/d54eaa7605a999bbdbe4e444f83baa20.png" group-title="BRAZIL",BR: ESPN 2 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191488
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN + HD" tvg-logo="http://boxdigital.xyz:8080/images/70e7fd03e2111dd8989e70e9c90f4c72.png" group-title="BRAZIL",BR: ESPN + HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191489
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PREMIUN HD" tvg-logo="http://boxdigital.xyz:8080/images/5144138fc0b4bc0d369b5b87eeba8eff.png" group-title="BRAZIL",BR: TELECINE PREMIUN HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191490
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO SIGNATURE HD" tvg-logo="http://boxdigital.xyz:8080/images/888ff150afd063750437756ab2fded0e.png" group-title="BRAZIL",BR: HBO SIGNATURE HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191491
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO HD" tvg-logo="http://boxdigital.xyz:8080/images/8025f2a309b94ef8aff4f647215d5106.png" group-title="BRAZIL",BR: HBO HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191492
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FAMILY HD" tvg-logo="http://boxdigital.xyz:8080/images/7930d88663d327655e46245457cdb1a2.png" group-title="BRAZIL",BR: HBO FAMILY HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191493
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 HD" tvg-logo="" group-title="BRAZIL",BR: HBO 2 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191494
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE HD" tvg-logo="http://boxdigital.xyz:8080/images/2eb43b02cff889f82c8026261ed1ad14.png" group-title="BRAZIL",BR: SPACE HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191495
+#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT HD" tvg-logo="" group-title="BRAZIL",BR: PARAMOUNT HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191496
+#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY HD" tvg-logo="http://boxdigital.xyz:8080/images/e4e40075cbb98692f4bf417f747b7ee9.png" group-title="BRAZIL",BR: SYFY HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191497
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT HD" tvg-logo="http://boxdigital.xyz:8080/images/15b58e95ca0ea360eb4e1e6c79be6cd8.png" group-title="BRAZIL",BR: TNT HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191498
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES HD" tvg-logo="http://boxdigital.xyz:8080/images/b2c9d17e611b91674c2e2793d07966a5.png" group-title="BRAZIL",BR: TNT SERIES HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191499
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX HD" tvg-logo="http://boxdigital.xyz:8080/images/2ed8989324fd1a97a8be64e964367f91.png" group-title="BRAZIL",BR: FOX HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191500
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO XTREME HD" tvg-logo="http://boxdigital.xyz:8080/images/142d38fbb1346c44b463e6af0ca43e27.png" group-title="BRAZIL",BR: HBO XTREME HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191501
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS HD" tvg-logo="http://boxdigital.xyz:8080/images/21ece65a75d25e7f9654cb4f38f5453b.png" group-title="BRAZIL",BR: DISCOVERY KIDS HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191502
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY H&H" tvg-logo="" group-title="BRAZIL",BR: DISCOVERY H&H
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191503
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL HD" tvg-logo="http://boxdigital.xyz:8080/images/d8cb7496f30102aa8040dd6ec56d5426.png" group-title="BRAZIL",BR: DISCOVERY CHANNEL HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191504
+#EXTINF:-1 tvg-id="" tvg-name="BR: MULTISHOW HD" tvg-logo="http://boxdigital.xyz:8080/images/64f5c01669575af2ad017726dbe5ebca.png" group-title="BRAZIL",BR: MULTISHOW HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191505
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATIONAL GEOGRAFHY HD" tvg-logo="" group-title="BRAZIL",BR: NATIONAL GEOGRAFHY HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191506
+#EXTINF:-1 tvg-id="" tvg-name="BR: HYSTORY HD" tvg-logo="" group-title="BRAZIL",BR: HYSTORY HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191507
+#EXTINF:-1 tvg-id="" tvg-name="BR: VIVA HD" tvg-logo="http://boxdigital.xyz:8080/images/daa010c4231373e17210656b1f3794a1.png" group-title="BRAZIL",BR: VIVA HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191508
+#EXTINF:-1 tvg-id="" tvg-name="BR: BOOMERAN HD" tvg-logo="http://boxdigital.xyz:8080/images/5d2fe25ed2280ade10f056a3a3bc9d00.png" group-title="BRAZIL",BR: BOOMERAN HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191509
+#EXTINF:-1 tvg-id="" tvg-name="BR: BABY TV" tvg-logo="http://boxdigital.xyz:8080/images/d610619262c24eb3bd172b5013cb05d3.png" group-title="BRAZIL",BR: BABY TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191510
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY CHANNEL HD" tvg-logo="http://boxdigital.xyz:8080/images/402cb605e8d9646c0d47fc66d8780777.png" group-title="BRAZIL",BR: DISNEY CHANNEL HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191511
+#EXTINF:-1 tvg-id="" tvg-name="BR: TOONCAST HD" tvg-logo="http://boxdigital.xyz:8080/images/0b9cc9dc0c9a7c68698106f7d1aae2f0.png" group-title="BRAZIL",BR: TOONCAST HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191512
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICK JR HD" tvg-logo="http://boxdigital.xyz:8080/images/6c2b3c416918328e08dc5785998af963.png" group-title="BRAZIL",BR: NICK JR HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191513
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO KIDS HD" tvg-logo="http://boxdigital.xyz:8080/images/a68fd5cd74e3fa394ce8cdb1aa250ab0.png" group-title="BRAZIL",BR: NATGEO KIDS HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191514
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1 HD" tvg-logo="" group-title="BRAZIL",BR: SPORTV 1 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191515
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 HD" tvg-logo="http://boxdigital.xyz:8080/images/f8b8be33fa4df077d56954090c0bdae7.png" group-title="BRAZIL",BR: SPORTV 2 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191516
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 HD" tvg-logo="http://boxdigital.xyz:8080/images/0ddef2f6d0ec79dfcee31f38721261af.png" group-title="BRAZIL",BR: SPORTV 3 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191517
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE SPORTS 1 HD" tvg-logo="http://boxdigital.xyz:8080/images/d34efc8ec32bfd32c236ff43f8ad0488.png" group-title="BRAZIL",BR: PREMIERE SPORTS 1 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191518
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 1 HD" tvg-logo="" group-title="BRAZIL",BR: CINE SKY 1 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191519
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 2 HD" tvg-logo="" group-title="BRAZIL",BR: CINE SKY 2 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191520
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 3 HD" tvg-logo="" group-title="BRAZIL",BR: CINE SKY 3 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191521
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 5 HD" tvg-logo="" group-title="BRAZIL",BR: CINE SKY 5 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191522
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 6 HD" tvg-logo="" group-title="BRAZIL",BR: CINE SKY 6 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191523
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 7 HD" tvg-logo="" group-title="BRAZIL",BR: CINE SKY 7 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191524
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 8 HD" tvg-logo="" group-title="BRAZIL",BR: CINE SKY 8 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191525
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 10 HD" tvg-logo="" group-title="BRAZIL",BR: CINE SKY 10 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191526
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3 HD" tvg-logo="http://boxdigital.xyz:8080/images/d83881099876e901fc5a7ba6551f46af.png" group-title="BRAZIL",BR: PREMIERE 3 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191527
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 8 HD" tvg-logo="http://boxdigital.xyz:8080/images/2c8bae3ba258daee623dfe0fb3fcfc45.png" group-title="BRAZIL",BR: PREMIERE 8 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191528
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 1 HD" tvg-logo="http://boxdigital.xyz:8080/images/f09709d433846cc931b690e0da4481a4.png" group-title="BRAZIL",BR: FOX SPORTS 1 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191529
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="http://boxdigital.xyz:8080/images/bd082a589619c0e7b51fe664c971a9d4.png" group-title="BRAZIL",BR: ANIMAL PLANET HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191530
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY WORLD HD" tvg-logo="http://boxdigital.xyz:8080/images/ebeb675a1011074db49e2c75b9e97f8e.png" group-title="BRAZIL",BR: DISCOVERY WORLD HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191531
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TURBO HD" tvg-logo="http://boxdigital.xyz:8080/images/39fa1c8072e584576b68c9b8fbca4249.png" group-title="BRAZIL",BR: DISCOVERY TURBO HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191532
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY THEATHER HD" tvg-logo="" group-title="BRAZIL",BR: DISCOVERY THEATHER HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191533
+#EXTINF:-1 tvg-id="" tvg-name="BR: H2 HD" tvg-logo="http://boxdigital.xyz:8080/images/33e87c4ead6f37c5cb8297aa64684b4e.png" group-title="BRAZIL",BR: H2 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191534
+#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY HD" tvg-logo="http://boxdigital.xyz:8080/images/de3f2287147a0e51b264a047720ac03d.png" group-title="BRAZIL",BR: HISTORY HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191535
+#EXTINF:-1 tvg-id="" tvg-name="BR: HGTV HD" tvg-logo="http://boxdigital.xyz:8080/images/e3b2b288e599d3a8296c4ec9367eaf46.png" group-title="BRAZIL",BR: HGTV HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191536
+#EXTINF:-1 tvg-id="" tvg-name="BR: BANDS SPORTS HD" tvg-logo="http://boxdigital.xyz:8080/images/8d4fe997088a67fa055cd8e035bb390f.png" group-title="BRAZIL",BR: BANDS SPORTS HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191537
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="http://boxdigital.xyz:8080/images/7c47d91155344a91b8341070c9f0f1f5.png" group-title="BRAZIL",BR: AMC HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191538
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN HD" tvg-logo="http://boxdigital.xyz:8080/images/884b56206a801a0381c1a9870b922f92.png" group-title="BRAZIL",BR: AXN HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191539
+#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER CHANNEL HD" tvg-logo="http://boxdigital.xyz:8080/images/a263d74ce9e266e0bd81f01005d2a62e.png" group-title="BRAZIL",BR: WARNER CHANNEL HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191540
+#EXTINF:-1 tvg-id="" tvg-name="BR: LIFETIME HD" tvg-logo="http://boxdigital.xyz:8080/images/cc11d12cf0bbf3cee29631cf884fb8d1.png" group-title="BRAZIL",BR: LIFETIME HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191541
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO POP HD" tvg-logo="http://boxdigital.xyz:8080/images/16557eebc591af7fa307425452d82221.png" group-title="BRAZIL",BR: HBO POP HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191542
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX HD" tvg-logo="http://boxdigital.xyz:8080/images/2e7076944b279de3dfae4d86b81bbc98.png" group-title="BRAZIL",BR: FX HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191543
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX HD" tvg-logo="http://boxdigital.xyz:8080/images/e48c159d6dc08263040d6b49f6687042.png" group-title="BRAZIL",BR: CINEMAX HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191544
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2 HD" tvg-logo="http://boxdigital.xyz:8080/images/363dfc4822e7c266a6bb8279fb082fd7.png" group-title="BRAZIL",BR: FOX SPORTS 2 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191545
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN BRAZIL HD" tvg-logo="http://boxdigital.xyz:8080/images/3c41d9c5120473ea9bed443bda3152af.png" group-title="BRAZIL",BR: ESPN BRAZIL HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/191546
+
+############ ADULTOS
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PRIVATE" tvg-logo="http://boxdigital.xyz:8080/images/6eb8e24063f5be3bc6bb84e4bc9f3324.png" group-title="ADULTOS XXX",XXX - PRIVATE
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73050
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HUSTLER" tvg-logo="http://boxdigital.xyz:8080/images/f3cd8c22e3d47bbff8b348b7f26a9d9b.png" group-title="ADULTOS XXX",XXX - HUSTLER
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73047
+#EXTINF:-1 tvg-id="" tvg-name="|XXX| PLAYBOY TV" tvg-logo="http://svtv.xyz/xxx.png" group-title="ADULTOS XXX",|XXX| PLAYBOY TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192022
+#EXTINF:-1 tvg-id="" tvg-name="|XXX| VENUS TV" tvg-logo="http://svtv.xyz/xxx.png" group-title="ADULTOS XXX",|XXX| VENUS TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192023
+#EXTINF:-1 tvg-id="" tvg-name="|XXX| BRAZZERS HD" tvg-logo="http://svtv.xyz/xxx.png" group-title="ADULTOS XXX",|XXX| BRAZZERS HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192024
+#EXTINF:-1 tvg-id="" tvg-name="|XXX| PENTHOUSE HD" tvg-logo="http://svtv.xyz/xxx.png" group-title="ADULTOS XXX",|XXX| PENTHOUSE HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192025
+#EXTINF:-1 tvg-id="" tvg-name="|XXX| PLAYBOY TV" tvg-logo="http://svtv.xyz/xxx.png" group-title="ADULTOS XXX",|XXX| PLAYBOY TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192026
+#EXTINF:-1 tvg-id="" tvg-name="|XXX| BRAZZERS HD" tvg-logo="http://svtv.xyz/xxx.png" group-title="ADULTOS XXX",|XXX| BRAZZERS HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192027
+#EXTINF:-1 tvg-id="" tvg-name="|XXX| AST TV 1" tvg-logo="http://svtv.xyz/xxx.png" group-title="ADULTOS XXX",|XXX| AST TV 1
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192029
+#EXTINF:-1 tvg-id="" tvg-name="|XXX| WEB STREAM" tvg-logo="http://svtv.xyz/xxx.png" group-title="ADULTOS XXX",|XXX| WEB STREAM
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192030
+#EXTINF:-1 tvg-id="" tvg-name="|XXX| MIAMI TV JENNY LIVE" tvg-logo="http://svtv.xyz/xxx.png" group-title="ADULTOS XXX",|XXX| MIAMI TV JENNY LIVE
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192031
+#EXTINF:-1 tvg-id="" tvg-name="|XXX| VISIT-X TV" tvg-logo="http://svtv.xyz/xxx.png" group-title="ADULTOS XXX",|XXX| VISIT-X TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192032
+#EXTINF:-1 tvg-id="" tvg-name="|XXX| SMOKING" tvg-logo="http://svtv.xyz/xxx.png" group-title="ADULTOS XXX",|XXX| SMOKING
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192033
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Reality Kings" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Reality Kings
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192034
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Blue Hustler" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Blue Hustler
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192035
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Brazzers House HD" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Brazzers House HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192036
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Brazzers TV" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Brazzers TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192037
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Brunette HD" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Brunette HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192038
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Evil Angel" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Evil Angel
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192039
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Brazzers en Espanol" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Brazzers en Espanol
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192040
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Latinas HD" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Latinas HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192041
+#EXTINF:-1 tvg-id="" tvg-name="xxx | SexMex" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | SexMex
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192043
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Mofos" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Mofos
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192044
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Playboy" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Playboy
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192045
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Milf HD" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Milf HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192046
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Sextreme" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Sextreme
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192047
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Nuart TV" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Nuart TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192049
+#EXTINF:-1 tvg-id="" tvg-name="xxx | O La la" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | O La la
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192050
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Penthouse HD" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Penthouse HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192051
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Sex Working" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Sex Working
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192052
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Hot 1 HD" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Hot 1 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192053
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Threesone HD" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Threesone HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192054
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Sexmex HD" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Sexmex HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192048
+#EXTINF:-1 tvg-id="" tvg-name="xxx | Mia Khalifa HD" tvg-logo="http://boxdigital.xyz:8080/images/0edfa8eb451315356e27d79a0af3cdc9.png" group-title="ADULTOS XXX",xxx | Mia Khalifa HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/192042
+
+################## Internacional
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: AMC" tvg-logo="http://tv.boxdigital.org:8080/images/d2da112ff6cd8afbaa23a875fcf880b7.png" group-title="CINE",PREM HD: AMC
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182099
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: AMC EAST" tvg-logo="http://tv.boxdigital.org:8080/images/d2da112ff6cd8afbaa23a875fcf880b7.png" group-title="CINE",PREM HD: AMC EAST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182051
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: AMC WEST" tvg-logo="http://tv.boxdigital.org:8080/images/d2da112ff6cd8afbaa23a875fcf880b7.png" group-title="CINE",PREM HD: AMC WEST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182052
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: AXN" tvg-logo="http://boxdigital.xyz:8080/images/f29cc6b861008ce153c468492e0e2927.PNG" group-title="CINE",PREM HD: AXN
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182100
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: AXN 2" tvg-logo="http://boxdigital.xyz:8080/images/f29cc6b861008ce153c468492e0e2927.PNG" group-title="CINE",PREM HD: AXN 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182053
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: CINE DINAMITA" tvg-logo="http://boxdigital.xyz:8080/images/6a1c9d2610f14ff9bd04cbc5080cd02d.png" group-title="CINE",PREM HD: CINE DINAMITA
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182101
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: CINECANAL" tvg-logo="http://boxdigital.xyz:8080/images/ec97facdb4f846d8e9f81fb08d8f6096.png" group-title="CINE",PREM HD: CINECANAL
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182102
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: CINECANAL EAST" tvg-logo="http://boxdigital.xyz:8080/images/dcc0ffbb848787cddc887a5ef80d9a8e.png" group-title="CINE",PREM HD: CINECANAL EAST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182054
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: CINELATINO" tvg-logo="http://boxdigital.xyz:8080/images/d6a31b4ad11eadcf591d1ab8fec97985.png" group-title="CINE",PREM HD: CINELATINO
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182103
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: CINEMAX EAST" tvg-logo="http://boxdigital.xyz:8080/images/360547b86034cda1112d00e88a251c43.png" group-title="CINE",PREM HD: CINEMAX EAST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182056
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: CINEMAX | op1" tvg-logo="http://boxdigital.xyz:8080/images/09396f57aa0a0e1645f9a6856dd280d4.png" group-title="CINE",PREM HD: CINEMAX | op1
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182055
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: DE PELÍCULA" tvg-logo="http://boxdigital.xyz:8080/images/4fdb372f29c3bcbc268fd1328c347715.png" group-title="CINE",PREM HD: DE PELÍCULA
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182104
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: DE PELÍCULA PLUS" tvg-logo="http://boxdigital.xyz:8080/images/e0e49e8bd5202121faa39475f7b00cd5.png" group-title="CINE",PREM HD: DE PELÍCULA PLUS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182105
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: DE PELÍCULAS CLASICO" tvg-logo="http://boxdigital.xyz:8080/images/4fdb372f29c3bcbc268fd1328c347715.png" group-title="CINE",PREM HD: DE PELÍCULAS CLASICO
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182106
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: DHE" tvg-logo="http://boxdigital.xyz:8080/images/a978d278271a96dd0c6ac2451df123b7.png" group-title="CINE",PREM HD: DHE
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182057
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: FX" tvg-logo="http://boxdigital.xyz:8080/images/76d84599a5072ff6574245d88b732072.png" group-title="CINE",PREM HD: FX
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182107
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: FX 2" tvg-logo="http://boxdigital.xyz:8080/images/76d84599a5072ff6574245d88b732072.png" group-title="CINE",PREM HD: FX 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182050
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: FXM" tvg-logo="http://boxdigital.xyz:8080/images/c290213f614b0b68f135020f54ccfb80.png" group-title="CINE",PREM HD: FXM
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182108
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: FXM 2" tvg-logo="http://boxdigital.xyz:8080/images/ad4a94e4188ae3537da4752907ac1b02.png" group-title="CINE",PREM HD: FXM 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182058
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: GOLDEN" tvg-logo="http://boxdigital.xyz:8080/images/ced5436073517b647a60d2eef3b3b540.png" group-title="CINE",PREM HD: GOLDEN
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182059
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: GOLDEN 2" tvg-logo="http://boxdigital.xyz:8080/images/ced5436073517b647a60d2eef3b3b540.png" group-title="CINE",PREM HD: GOLDEN 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182109
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: GOLDEN EDGE" tvg-logo="http://boxdigital.xyz:8080/images/1807db5645f8947b2b26c36469e4f77f.png" group-title="CINE",PREM HD: GOLDEN EDGE
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182060
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: GOLDEN EDGE 2" tvg-logo="http://boxdigital.xyz:8080/images/4a8680a36fc8ad8e119073c3674eeeed.png" group-title="CINE",PREM HD: GOLDEN EDGE 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182112
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: GOLDEN EDGE 3" tvg-logo="http://boxdigital.xyz:8080/images/d42546d256e2b0487aa10afec52c2699.png" group-title="CINE",PREM HD: GOLDEN EDGE 3
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182110
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: GOLDEN PLUS" tvg-logo="http://boxdigital.xyz:8080/images/ced5436073517b647a60d2eef3b3b540.png" group-title="CINE",PREM HD: GOLDEN PLUS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182111
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: GOLDEN PLUS 2" tvg-logo="http://boxdigital.xyz:8080/images/ced5436073517b647a60d2eef3b3b540.png" group-title="CINE",PREM HD: GOLDEN PLUS 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182061
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: GOLDEN PREMIER 1" tvg-logo="http://boxdigital.xyz:8080/images/5ed39cd871c03a0c49b20c512f02ac66.png" group-title="CINE",PREM HD: GOLDEN PREMIER 1
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182062
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: GOLDEN PREMIER 2" tvg-logo="http://boxdigital.xyz:8080/images/5ed39cd871c03a0c49b20c512f02ac66.png" group-title="CINE",PREM HD: GOLDEN PREMIER 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182063
+#EXTINF:-1 tvg-id="I348.80652.schedulesdirect.org" tvg-name="PREM HD: HBO" tvg-logo="http://boxdigital.xyz:8080/images/90c300f44846834e5f35946d95006f56.png" group-title="CINE",PREM HD: HBO
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182113
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO (mex)" tvg-logo="http://boxdigital.xyz:8080/images/a183b3149f6380d208921dc0f0d37dbc.png" group-title="CINE",PREM HD: HBO (mex)
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182064
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO +" tvg-logo="http://boxdigital.xyz:8080/images/66115f5302fef002ab48cf282e5e4c44.png" group-title="CINE",PREM HD: HBO +
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182114
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO + | op2" tvg-logo="http://boxdigital.xyz:8080/images/66115f5302fef002ab48cf282e5e4c44.png" group-title="CINE",PREM HD: HBO + | op2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182065
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO 2" tvg-logo="http://boxdigital.xyz:8080/images/5afe0031ba93a4067226c00969e11537.png" group-title="CINE",PREM HD: HBO 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182115
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO 2 WEST" tvg-logo="http://boxdigital.xyz:8080/images/a183b3149f6380d208921dc0f0d37dbc.png" group-title="CINE",PREM HD: HBO 2 WEST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182066
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO EAST" tvg-logo="http://boxdigital.xyz:8080/images/7dc91b198cd8c5d2c3780bc0456d1f9c.png" group-title="CINE",PREM HD: HBO EAST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182067
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO FAMILY" tvg-logo="http://boxdigital.xyz:8080/images/e46a94011c603da882a9aa965819b717.png" group-title="CINE",PREM HD: HBO FAMILY
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182116
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO FAMILY 2" tvg-logo="http://boxdigital.xyz:8080/images/1388665dda3ac476526c7cdb92e64e64.png" group-title="CINE",PREM HD: HBO FAMILY 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182068
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO MUNDI" tvg-logo="http://boxdigital.xyz:8080/images/46440df7a0e69b3fbb38de4134aceaca.png" group-title="CINE",PREM HD: HBO MUNDI
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182117
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO MUNDI | op2" tvg-logo="http://boxdigital.xyz:8080/images/3bee0a373febc97bac58eee0d3fec764.png" group-title="CINE",PREM HD: HBO MUNDI | op2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182069
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO POP" tvg-logo="http://boxdigital.xyz:8080/images/1388665dda3ac476526c7cdb92e64e64.png" group-title="CINE",PREM HD: HBO POP
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182070
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO SIGNATURE" tvg-logo="http://boxdigital.xyz:8080/images/bd9bac19be8c161770a5ba7a4bb80b54.png" group-title="CINE",PREM HD: HBO SIGNATURE
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182118
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO SIGNATURE (mex)" tvg-logo="http://boxdigital.xyz:8080/images/04c1bbfbe0d7eb3f7cb64671568728f7.png" group-title="CINE",PREM HD: HBO SIGNATURE (mex)
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182071
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO WEST" tvg-logo="http://boxdigital.xyz:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="CINE",PREM HD: HBO WEST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182072
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO XTREME" tvg-logo="http://boxdigital.xyz:8080/images/32b0ec72a213a63194aa14d449f8d24a.png" group-title="CINE",PREM HD: HBO XTREME
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182073
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: HBO XTREME | op2" tvg-logo="http://boxdigital.xyz:8080/images/99f8a153894a76aa972ca7c9e2584ccc.png" group-title="CINE",PREM HD: HBO XTREME | op2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182119
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: PARAMOUNT NETWORK" tvg-logo="http://boxdigital.xyz:8080/images/2430100e5affcc32d0e60f1ada853204.png" group-title="CINE",PREM HD: PARAMOUNT NETWORK
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182120
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: PARAMOUNT NETWORK 2" tvg-logo="http://boxdigital.xyz:8080/images/2430100e5affcc32d0e60f1ada853204.png" group-title="CINE",PREM HD: PARAMOUNT NETWORK 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182075
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: SONY CHANNEL" tvg-logo="http://boxdigital.xyz:8080/images/d239371fa97f976721de3f6d04dac38d.png" group-title="CINE",PREM HD: SONY CHANNEL
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182076
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: SONY CHANNEL | op2" tvg-logo="http://boxdigital.xyz:8080/images/d239371fa97f976721de3f6d04dac38d.png" group-title="CINE",PREM HD: SONY CHANNEL | op2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182077
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: SPACE EAST" tvg-logo="http://boxdigital.xyz:8080/images/f160d0717ad408c937092564b8467377.png" group-title="CINE",PREM HD: SPACE EAST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182078
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STAR CHANNEL" tvg-logo="http://boxdigital.xyz:8080/images/c2a0a868209b25c0e07d0fc269e831e8.png" group-title="CINE",PREM HD: STAR CHANNEL
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182079
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STAR COMEDY 2" tvg-logo="http://boxdigital.xyz:8080/images/6349e09245a4a3a2844b3894bc67ec26.png" group-title="CINE",PREM HD: STAR COMEDY 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182082
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STARZ  ENCORE SUSPENSO" tvg-logo="http://boxdigital.xyz:8080/images/b66d0efb07e6c08aea5fa9a5040cf2ed.png" group-title="CINE",PREM HD: STARZ  ENCORE SUSPENSO
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182084
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STARZ CINEMA" tvg-logo="http://boxdigital.xyz:8080/images/8da1b103e8a813afe7cfba1be6c99a49.png" group-title="CINE",PREM HD: STARZ CINEMA
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182080
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STARZ CINEMA" tvg-logo="http://boxdigital.xyz:8080/images/3fe629a1ee9754c1ae71c156b00e04ae.png" group-title="CINE",PREM HD: STARZ CINEMA
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182081
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STARZ ENCORE ACTION" tvg-logo="http://boxdigital.xyz:8080/images/5d6f35c11f7bb72a3c5db8631f3c21e7.png" group-title="CINE",PREM HD: STARZ ENCORE ACTION
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182085
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STARZ ENCORE CLASSIC" tvg-logo="http://boxdigital.xyz:8080/images/810ec3ba2f044261fcbafcff473867be.png" group-title="CINE",PREM HD: STARZ ENCORE CLASSIC
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182087
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STARZ ENCORE COMEDY" tvg-logo="http://boxdigital.xyz:8080/images/5d6f35c11f7bb72a3c5db8631f3c21e7.png" group-title="CINE",PREM HD: STARZ ENCORE COMEDY
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182088
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STARZ ENCORE EAST" tvg-logo="http://boxdigital.xyz:8080/images/5d6f35c11f7bb72a3c5db8631f3c21e7.png" group-title="CINE",PREM HD: STARZ ENCORE EAST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182089
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STARZ ENCORE FAMILY" tvg-logo="http://boxdigital.xyz:8080/images/cd4ab6a7503ee80f355d8fab4929541e.png" group-title="CINE",PREM HD: STARZ ENCORE FAMILY
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182090
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STARZ ENCORE WESTERN" tvg-logo="http://boxdigital.xyz:8080/images/5d6f35c11f7bb72a3c5db8631f3c21e7.png" group-title="CINE",PREM HD: STARZ ENCORE WESTERN
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182091
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STARZ IN BLACK" tvg-logo="http://boxdigital.xyz:8080/images/a103beccb925afb9150c784f56b99778.png" group-title="CINE",PREM HD: STARZ IN BLACK
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182092
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STUDIO UNIVERSAL" tvg-logo="http://boxdigital.xyz:8080/images/0ef92021fc229d9fdabeab571c215de2.png" group-title="CINE",PREM HD: STUDIO UNIVERSAL
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182123
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: STUDIO UNIVERSAL 2" tvg-logo="http://boxdigital.xyz:8080/images/9e0b7cf897ae90c66593e3b579fb6360.png" group-title="CINE",PREM HD: STUDIO UNIVERSAL 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182093
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: TCM" tvg-logo="http://boxdigital.xyz:8080/images/9c3cd6409e1583c9a79cb3d90579b21d.png" group-title="CINE",PREM HD: TCM
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182094
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: TCM 2" tvg-logo="http://boxdigital.xyz:8080/images/9c3cd6409e1583c9a79cb3d90579b21d.png" group-title="CINE",PREM HD: TCM 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182124
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: TNT" tvg-logo="http://boxdigital.xyz:8080/images/9cb4e97d391220d4ff459d26bc87da6a.png" group-title="CINE",PREM HD: TNT
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182125
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: TNT 2 | op 2" tvg-logo="http://boxdigital.xyz:8080/images/9cb4e97d391220d4ff459d26bc87da6a.png" group-title="CINE",PREM HD: TNT 2 | op 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182095
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: TNT NOVELAS" tvg-logo="https://pbs.twimg.com/media/Fxjs5siWIAsVwb-.jpg" group-title="CINE",PREM HD: TNT NOVELAS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210046
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: TNT SERIES" tvg-logo="http://boxdigital.xyz:8080/images/e2c420d928d4bf8ce0ff2ec19b371514.png" group-title="CINE",PREM HD: TNT SERIES
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73073
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: TNT SERIES" tvg-logo="http://boxdigital.xyz:8080/images/67a300a44a8000db32d8e84f1393f63d.png" group-title="CINE",PREM HD: TNT SERIES
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182096
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: UNIVERSAL CHANNEL" tvg-logo="http://boxdigital.xyz:8080/images/2565ef919dd558390045543fd48c80b1.png" group-title="CINE",PREM HD: UNIVERSAL CHANNEL
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182097
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: UNIVERSAL CINEMA" tvg-logo="http://boxdigital.xyz:8080/images/21f3d2924cbcb6443516f29a0c8cb4e5.png" group-title="CINE",PREM HD: UNIVERSAL CINEMA
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182046
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: UNIVERSAL COMEDY" tvg-logo="http://boxdigital.xyz:8080/images/6a033ba0a95431f597adfd0e53e1c7e7.png" group-title="CINE",PREM HD: UNIVERSAL COMEDY
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182047
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: UNIVERSAL CRIMEN" tvg-logo="http://boxdigital.xyz:8080/images/6a033ba0a95431f597adfd0e53e1c7e7.png" group-title="CINE",PREM HD: UNIVERSAL CRIMEN
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182048
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: UNIVERSAL PREMIERE" tvg-logo="http://boxdigital.xyz:8080/images/a958319846804662d69abe108db4431f.png" group-title="CINE",PREM HD: UNIVERSAL PREMIERE
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182049
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: UNIVERSAL REALITY" tvg-logo="" group-title="CINE",PREM HD: UNIVERSAL REALITY
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/163904
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: WARNER" tvg-logo="http://boxdigital.xyz:8080/images/3fa99dcda32be7f7a79a1fe173883954.png" group-title="CINE",PREM HD: WARNER
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182126
+#EXTINF:-1 tvg-id="" tvg-name="PREM HD: WARNER 2" tvg-logo="http://boxdigital.xyz:8080/images/3fa99dcda32be7f7a79a1fe173883954.png" group-title="CINE",PREM HD: WARNER 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182098
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://boxdigital.xyz:8080/images/b6bb43df4525b928a105fb5741bddbea.png" group-title="ENTRETENCIÓN Y CULTURA",A&E
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73052
+#EXTINF:-1 tvg-id="" tvg-name="A3 SERIES" tvg-logo="http://boxdigital.xyz:8080/images/94341b07909b8e23431736446316e00d.png" group-title="ENTRETENCIÓN Y CULTURA",A3 SERIES
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73060
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://boxdigital.xyz:8080/images/24b512219138a3d0dc99ca0f905d22a4.png" group-title="ENTRETENCIÓN Y CULTURA",ANIMAL PLANET
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/73082
+
+#EXTINF:-1 tvg-id="" tvg-name="ACC Network" tvg-logo="http://boxdigital.xyz:8080/images/54d00e17982b4a9d74e59b7006d87930.png" group-title="USA PREMIUM",ACC Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210103
+#EXTINF:-1 tvg-id="" tvg-name="BALLY Sports North" tvg-logo="https://play-lh.googleusercontent.com/PHBX1vx-6mKiQlYO3jlRtSI5dbyCbpIKcR4M8OlTsB11WhBUZYud4mbcIBF3bmZQbGRp" group-title="USA PREMIUM",BALLY Sports North
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210115
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 06" tvg-logo="http://boxdigital.xyz:8080/images/c34e8482459796d748a98483555d7cb1.png" group-title="USA PREMIUM",beIN Sports 06
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210104
+#EXTINF:-1 tvg-id="" tvg-name="BIG TEN NETWORK" tvg-logo="https://s.pngix.com/pngfile/s/36-364873_big-ten-network-big-10-network-logo-hd.png" group-title="USA PREMIUM",BIG TEN NETWORK
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210105
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Network hd 1" tvg-logo="http://boxdigital.xyz:8080/images/b855454971c90b9dae78a007272277ce.png" group-title="USA PREMIUM",CBS Sports Network hd 1
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210153
+#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC HD" tvg-logo="http://boxdigital.xyz:8080/images/78430be357a7eb40019ba6516325abcb.png" group-title="USA PREMIUM",CINE | AMC HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210200
+#EXTINF:-1 tvg-id="" tvg-name="CINE | Cinemax 5 Star Max" tvg-logo="http://boxdigital.xyz:8080/images/59c6b2870302b1e2530f5aadc3ef856f.png" group-title="USA PREMIUM",CINE | Cinemax 5 Star Max
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210201
+#EXTINF:-1 tvg-id="" tvg-name="CINE | EPIX DRIVE IN" tvg-logo="http://boxdigital.xyz:8080/images/a4ab43e553cc22d0c3e268b55cc6066b.png" group-title="USA PREMIUM",CINE | EPIX DRIVE IN
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210202
+#EXTINF:-1 tvg-id="" tvg-name="CINE | EPIX HITS" tvg-logo="http://boxdigital.xyz:8080/images/a4ab43e553cc22d0c3e268b55cc6066b.png" group-title="USA PREMIUM",CINE | EPIX HITS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210203
+#EXTINF:-1 tvg-id="" tvg-name="CINE | FX" tvg-logo="http://boxdigital.xyz:8080/images/fe943df7ac4737b7d0f62d0bc86fe26a.png" group-title="USA PREMIUM",CINE | FX
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210204
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO Family" tvg-logo="http://tv.boxdigital.org:8080/images/c6a76d38e324e86f3f39fbbe563a9489.png" group-title="USA PREMIUM",CINE | HBO Family
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210205
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO SIGNATURE" tvg-logo="http://boxdigital.xyz:8080/images/23334b4e9c2bb90eb08163c545722d1d.png" group-title="USA PREMIUM",CINE | HBO SIGNATURE
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210206
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO ZONE" tvg-logo="http://boxdigital.xyz:8080/images/a747aa4e807a700f60242fdc85e55c18.png" group-title="USA PREMIUM",CINE | HBO ZONE
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210207
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HORRORIFY US @" tvg-logo="" group-title="USA PREMIUM",CINE | HORRORIFY US @
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210208
+#EXTINF:-1 tvg-id="" tvg-name="CINE | SONY MOVIE CHANNEL" tvg-logo="http://boxdigital.xyz:8080/images/c5d8f44c2171b2e3164e66b7248b1544.png" group-title="USA PREMIUM",CINE | SONY MOVIE CHANNEL
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210209
+#EXTINF:-1 tvg-id="" tvg-name="CINE | SYFY HD" tvg-logo="http://boxdigital.xyz:8080/images/98aac2a1de071c65aa21abc53f31539e.png" group-title="USA PREMIUM",CINE | SYFY HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210210
+#EXTINF:-1 tvg-id="" tvg-name="CINE | WGN AMERICA" tvg-logo="http://boxdigital.xyz:8080/images/3b6796b671ce9c30592adb82b8cd4b9c.png" group-title="USA PREMIUM",CINE | WGN AMERICA
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210211
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://boxdigital.xyz:8080/images/9ddaca591f422821b065b2e50054fb74.png" group-title="USA PREMIUM",ESPN
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210106
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://boxdigital.xyz:8080/images/73ad38381e174ccf1d64eba155e8f0c7.png" group-title="USA PREMIUM",ESPN 2 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210107
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://home-playtv.com:25461/images/2913104a30763c7f34bb68d59cd907a9.png" group-title="USA PREMIUM",ESPN 2 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210168
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="http://home-playtv.com:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="USA PREMIUM",ESPN 2 SD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210169
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD(Y)" tvg-logo="http://boxdigital.xyz:8080/images/7fa4e00e4627984deb66ebe22d66039f.png" group-title="USA PREMIUM",ESPN HD(Y)
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210167
+#EXTINF:-1 tvg-id="" tvg-name="ESPN NEWS" tvg-logo="http://boxdigital.xyz:8080/images/9d70c552dbb7c34bd67a80bf0cee20c1.png" group-title="USA PREMIUM",ESPN NEWS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210108
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U" tvg-logo="http://boxdigital.xyz:8080/images/d792518123f474bfd4c4b0df12344ec3.png" group-title="USA PREMIUM",ESPN U
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210109
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U HD(Y)" tvg-logo="http://home-playtv.com:25461/images/3d36ac7fb7c1fcc11f05628c3f7fe00f.png" group-title="USA PREMIUM",ESPN U HD(Y)
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210170
+#EXTINF:-1 tvg-id="" tvg-name="ET | ABC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/872.png" group-title="USA PREMIUM",ET | ABC
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210172
+#EXTINF:-1 tvg-id="" tvg-name="ET | BET HER" tvg-logo="http://boxdigital.xyz:8080/images/9bcf1c764ac9461a4cf4d1e12a24bd6a.png" group-title="USA PREMIUM",ET | BET HER
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210173
+#EXTINF:-1 tvg-id="" tvg-name="ET | CBS" tvg-logo="http://tvgolatino.com:8080/images/47f0ac4152d87edea2a3d624c42254e0.png" group-title="USA PREMIUM",ET | CBS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210174
+#EXTINF:-1 tvg-id="" tvg-name="ET | COMEDY CENTRAL" tvg-logo="http://boxdigital.xyz:8080/images/76b4decddc2f0f9e1de62972b5215afc.png" group-title="USA PREMIUM",ET | COMEDY CENTRAL
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210175
+#EXTINF:-1 tvg-id="" tvg-name="ET | COOKING CHANNEL" tvg-logo="http://boxdigital.xyz:8080/images/924644c4e8e776ad0542dc342b41d2bb.png" group-title="USA PREMIUM",ET | COOKING CHANNEL
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210176
+#EXTINF:-1 tvg-id="" tvg-name="ET | Destination America" tvg-logo="http://boxdigital.xyz:8080/images/714c1395c1db930be3408474f5307c1c.png" group-title="USA PREMIUM",ET | Destination America
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210177
+#EXTINF:-1 tvg-id="" tvg-name="ET | FOX" tvg-logo="http://boxdigital.xyz:8080/images/b89c827cee1f890f24f33a3988b4760f.png" group-title="USA PREMIUM",ET | FOX
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210178
+#EXTINF:-1 tvg-id="" tvg-name="ET | FXX" tvg-logo="http://boxdigital.xyz:8080/images/4b7f5a6c9883d43ffba0f22532ce50de.png" group-title="USA PREMIUM",ET | FXX
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210179
+#EXTINF:-1 tvg-id="" tvg-name="ET | NBC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/020.png" group-title="USA PREMIUM",ET | NBC
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210180
+#EXTINF:-1 tvg-id="" tvg-name="ET | TLC USA" tvg-logo="http://boxdigital.xyz:8080/images/d2d37c7c32173210d37a387a3d1f3dd6.png" group-title="USA PREMIUM",ET | TLC USA
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210181
+#EXTINF:-1 tvg-id="" tvg-name="ET | TVG NETWORK" tvg-logo="http://i.picasion.com/pic90/ee754aa53940b3b1df3ab956f7c3ce20.gif" group-title="USA PREMIUM",ET | TVG NETWORK
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210182
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box" tvg-logo="http://boxdigital.xyz:8080/images/cb003a558ce2a2a3de6a66f988323aa4.png" group-title="USA PREMIUM",Fight Box
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210110
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="http://boxdigital.xyz:8080/images/87c78844ffe53b45b803ba71cf3f317e.png" group-title="USA PREMIUM",Fight Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210111
+#EXTINF:-1 tvg-id="" tvg-name="FOX COLLEGE SPORTS Atlantic" tvg-logo="http://boxdigital.xyz:8080/images/25bdec802e933ec5024595975b09026b.png" group-title="USA PREMIUM",FOX COLLEGE SPORTS Atlantic
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210112
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="http://boxdigital.xyz:8080/images/4f3da988474c17e1d831e99165fb85f6.png" group-title="USA PREMIUM",FOX SPORTS 1
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210113
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://boxdigital.xyz:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="USA PREMIUM",FOX SPORTS 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210114
+#EXTINF:-1 tvg-id="" tvg-name="GAME SHOW NETWORK" tvg-logo="http://boxdigital.xyz:8080/images/0f332cdcb197fecb2b32be57f801d666.png" group-title="USA PREMIUM",GAME SHOW NETWORK
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210116
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="http://boxdigital.xyz:8080/images/bb912813c37837a84da347bcfa74640f.png" group-title="USA PREMIUM",Golf Channel
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210117
+#EXTINF:-1 tvg-id="" tvg-name="KD |  Nick" tvg-logo="http://boxdigital.xyz:8080/images/dbe20313e007928ef4e9990347a2e424.png" group-title="USA KIDS Y FAMILY",KD |  Nick
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210337
+#EXTINF:-1 tvg-id="" tvg-name="KD | Baby tv" tvg-logo="http://boxdigital.xyz:8080/images/d2d3fc7a2c10a56725a566b005b11b58.png" group-title="USA KIDS Y FAMILY",KD | Baby tv
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210338
+#EXTINF:-1 tvg-id="" tvg-name="KD | Boomerang" tvg-logo="http://boxdigital.xyz:8080/images/25ecae105544167a814325251467d1c5.png" group-title="USA KIDS Y FAMILY",KD | Boomerang
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210339
+#EXTINF:-1 tvg-id="" tvg-name="KD | Cartoon Network" tvg-logo="http://boxdigital.xyz:8080/images/10156d487ad6226f600e53e3f702468c.png" group-title="USA KIDS Y FAMILY",KD | Cartoon Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210340
+#EXTINF:-1 tvg-id="" tvg-name="KD | CARTOON NETWORK EAST" tvg-logo="http://boxdigital.xyz:8080/images/ec73f63752e1524c0000e3cb780fbe88.png" group-title="USA KIDS Y FAMILY",KD | CARTOON NETWORK EAST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210341
+#EXTINF:-1 tvg-id="" tvg-name="KD | Disney Channel" tvg-logo="http://boxdigital.xyz:8080/images/94f22d1741bd648332baadff0357649d.png" group-title="USA KIDS Y FAMILY",KD | Disney Channel
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210342
+#EXTINF:-1 tvg-id="" tvg-name="KD | Disney Channel EAST" tvg-logo="http://boxdigital.xyz:8080/images/94f22d1741bd648332baadff0357649d.png" group-title="USA KIDS Y FAMILY",KD | Disney Channel EAST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210343
+#EXTINF:-1 tvg-id="" tvg-name="KD | Disney Junior EAST" tvg-logo="http://boxdigital.xyz:8080/images/7b560a73185805d6904181cd85bc8d1d.png" group-title="USA KIDS Y FAMILY",KD | Disney Junior EAST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210344
+#EXTINF:-1 tvg-id="" tvg-name="LONGHORN NETWORK" tvg-logo="https://static.iptv-epg.com/us/LonghornNetwork.us.png" group-title="USA PREMIUM",LONGHORN NETWORK
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210118
+#EXTINF:-1 tvg-id="" tvg-name="MARQUEE SPORTS NETWORK" tvg-logo="http://boxdigital.xyz:8080/images/42b2e16aa26f04509d3313f56709214a.jpg" group-title="USA PREMIUM",MARQUEE SPORTS NETWORK
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210119
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="http://boxdigital.xyz:8080/images/a21c6c22c7acd370ffc60de1d3522949.png" group-title="USA PREMIUM",MLB Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210120
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="" group-title="USA PREMIUM",MLB Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210311
+#EXTINF:-1 tvg-id="" tvg-name="MSG 2" tvg-logo="http://boxdigital.xyz:8080/images/1e4424a41ccf4ba6f4b84328d3778c24.png" group-title="USA PREMIUM",MSG 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210121
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="http://starsat123.com:8080/images/228a04182382146df52d967505746c05.jpg" group-title="USA PREMIUM",Nat Geo Wild
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210191
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV FHD" tvg-logo="http://boxdigital.xyz:8080/images/ebf323cac56411c17e5ba272e6633267.png" group-title="USA PREMIUM",NBA TV FHD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210122
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Network" tvg-logo="http://boxdigital.xyz:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="USA PREMIUM",NBC Sports Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210123
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN Boston" tvg-logo="http://boxdigital.xyz:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="USA PREMIUM",NBCSN Boston
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210124
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN California" tvg-logo="http://boxdigital.xyz:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="USA PREMIUM",NBCSN California
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210125
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN Chicago" tvg-logo="http://boxdigital.xyz:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="USA PREMIUM",NBCSN Chicago
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210126
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN CHICAGO PLUS" tvg-logo="http://boxdigital.xyz:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="USA PREMIUM",NBCSN CHICAGO PLUS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210127
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN Northwest" tvg-logo="http://boxdigital.xyz:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="USA PREMIUM",NBCSN Northwest
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210128
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN Philadelphia" tvg-logo="http://boxdigital.xyz:8080/images/0b0ef2d119ca31699a06dc91f3921e91.png" group-title="USA PREMIUM",NBCSN Philadelphia
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210129
+#EXTINF:-1 tvg-id="" tvg-name="NESN HD" tvg-logo="http://boxdigital.xyz:8080/images/51b35b37ca27e104206c5a64be9db572.png" group-title="USA PREMIUM",NESN HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210130
+#EXTINF:-1 tvg-id="" tvg-name="NESN Plus" tvg-logo="http://boxdigital.xyz:8080/images/51b35b37ca27e104206c5a64be9db572.png" group-title="USA PREMIUM",NESN Plus
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210131
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="http://boxdigital.xyz:8080/images/ce150ee471e1916990b3b6db0f09ae22.png" group-title="USA PREMIUM",NFL Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210132
+#EXTINF:-1 tvg-id="" tvg-name="NFL RedZone" tvg-logo="http://boxdigital.xyz:8080/images/953c5aad2543082ede65ae3c53434c90.png" group-title="USA PREMIUM",NFL RedZone
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210133
+#EXTINF:-1 tvg-id="" tvg-name="NFL Redzone HD" tvg-logo="" group-title="USA PREMIUM",NFL Redzone HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210134
+#EXTINF:-1 tvg-id="" tvg-name="OUTDOOR CHANNEL HD" tvg-logo="http://conectweb.site/canais%20pt/Outdoor%20Channel%20HD%20logo.png" group-title="USA PREMIUM",OUTDOOR CHANNEL HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210135
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 BAY AREA HD" tvg-logo="http://boxdigital.xyz:8080/images/6eb9299d15966f3632dcc59455ca1604.png" group-title="USA PREMIUM",PAC 12 BAY AREA HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210136
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 LOS ANGELES HD" tvg-logo="http://boxdigital.xyz:8080/images/6eb9299d15966f3632dcc59455ca1604.png" group-title="USA PREMIUM",PAC 12 LOS ANGELES HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210137
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Mountain" tvg-logo="http://boxdigital.xyz:8080/images/6eb9299d15966f3632dcc59455ca1604.png" group-title="USA PREMIUM",PAC 12 Mountain
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210138
+#EXTINF:-1 tvg-id="" tvg-name="Pac 12 Network" tvg-logo="http://boxdigital.xyz:8080/images/6eb9299d15966f3632dcc59455ca1604.png" group-title="USA PREMIUM",Pac 12 Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210139
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Oregon" tvg-logo="http://boxdigital.xyz:8080/images/6eb9299d15966f3632dcc59455ca1604.png" group-title="USA PREMIUM",PAC 12 Oregon
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210140
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV HD" tvg-logo="http://boxdigital.xyz:8080/images/b635b2e24a1768d819fb1b12e976f814.jpg" group-title="USA PREMIUM",Red Bull TV HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210141
+#EXTINF:-1 tvg-id="" tvg-name="SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png" group-title="USA PREMIUM",SEC Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210142
+#EXTINF:-1 tvg-id="" tvg-name="SNY HD" tvg-logo="https://static.iptv-epg.com/us/SportsNetNewYork.us.png" group-title="USA PREMIUM",SNY HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210143
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="http://boxdigital.xyz:8080/images/c4767a585551e04f4962473fd6f5c8b1.png" group-title="USA PREMIUM",TSN 3
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210146
+#EXTINF:-1 tvg-id="" tvg-name="TVG NETWORK" tvg-logo="http://boxdigital.xyz:8080/images/c150f89c654e1d21c961dc3f9dcf79dc.png" group-title="USA PREMIUM",TVG NETWORK
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210147
+#EXTINF:-1 tvg-id="" tvg-name="TVG2 HD" tvg-logo="http://boxdigital.xyz:8080/images/8e155d04ee8a0e9d09c73f1faecebb7b.png" group-title="USA PREMIUM",TVG2 HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210148
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV HD" tvg-logo="" group-title="USA PREMIUM",UFC TV HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210149
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1000px-NBC_Universo_logo.svg.png" group-title="USA: TELEMUNDO Y UNIVISION",UNIVERSO
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/194068
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION ATLANTA HD" tvg-logo="http://tv.boxdigital.org:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="USA: TELEMUNDO Y UNIVISION",UNIVISION ATLANTA HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182245
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION DALLAS TX HD" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="USA: TELEMUNDO Y UNIVISION",UNIVISION DALLAS TX HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182248
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION DENVER HD" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="USA: TELEMUNDO Y UNIVISION",UNIVISION DENVER HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182249
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION LOS ANGELES HD" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="USA: TELEMUNDO Y UNIVISION",UNIVISION LOS ANGELES HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182250
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI HD" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="USA: TELEMUNDO Y UNIVISION",UNIVISION MIAMI HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182251
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NY" tvg-logo="http://boxdigital.xyz:8080/images/ceb9d8fce43839461aa1a47532e51694.png" group-title="USA: TELEMUNDO Y UNIVISION",UNIVISION NY
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182252
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION PHILADELPHIA HD" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="USA: TELEMUNDO Y UNIVISION",UNIVISION PHILADELPHIA HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182253
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION SAN FRANCISCO HD" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="USA: TELEMUNDO Y UNIVISION",UNIVISION SAN FRANCISCO HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182255
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS HD" tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="USA: TELEMUNDO Y UNIVISION",UNIVISION TELENOVELAS HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/182256
+#EXTINF:-1 tvg-id="" tvg-name="US | Fox" tvg-logo="https://images.app.goo.gl/KGmfFhyySHXKnEMp6" group-title="USA PREMIUM",US | Fox
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210171
+#EXTINF:-1 tvg-id="" tvg-name="US:  UNIMAS" tvg-logo="" group-title="USA PREMIUM",US:  UNIMAS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210268
+#EXTINF:-1 tvg-id="" tvg-name="US:  UNIVISION" tvg-logo="" group-title="USA PREMIUM",US:  UNIVISION
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210267
+#EXTINF:-1 tvg-id="" tvg-name="US: 5 StarMax" tvg-logo="https://lh3.googleusercontent.com/proxy/H2GfgqzLatTIoUfmcu1hfEQtkqKTrxA49L-pfGAbwW_wjTs37oMrGoV95e7N7cb1sTzVJnFE0S7ubspF_zTOx-doqQhBBKNNCiF4YO_PJVDW14BONFGdubzSNhHhSndcldk5Szdu2ig9m90twOBIpj3nDvm3P2Z5ZOJc3JvZwCPi" group-title="USA PREMIUM",US: 5 StarMax
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210310
+#EXTINF:-1 tvg-id="" tvg-name="US: A&E" tvg-logo="" group-title="USA PREMIUM",US: A&E
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210221
+#EXTINF:-1 tvg-id="" tvg-name="US: ACC Network" tvg-logo="" group-title="USA PREMIUM",US: ACC Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210305
+#EXTINF:-1 tvg-id="" tvg-name="US: ActionMax" tvg-logo="" group-title="USA PREMIUM",US: ActionMax
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210322
+#EXTINF:-1 tvg-id="" tvg-name="US: American Heroes" tvg-logo="" group-title="USA PREMIUM",US: American Heroes
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210243
+#EXTINF:-1 tvg-id="" tvg-name="US: Animal Planet HD" tvg-logo="http://boxdigital.xyz:8080/images/e7e5225f67999bba7d04c1d5d87d3d1f.png" group-title="USA DOCUMENTALS",US: Animal Planet HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210345
+#EXTINF:-1 tvg-id="" tvg-name="US: AXS TV" tvg-logo="" group-title="USA PREMIUM",US: AXS TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210316
+#EXTINF:-1 tvg-id="" tvg-name="US: BABY FIRST" tvg-logo="http://boxdigital.xyz:8080/images/4b69d946ca782775cbafbf4d54fd3ee0.png" group-title="USA KIDS Y FAMILY",US: BABY FIRST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210336
+#EXTINF:-1 tvg-id="" tvg-name="US: BET" tvg-logo="" group-title="USA PREMIUM",US: BET
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210229
+#EXTINF:-1 tvg-id="" tvg-name="US: BET Her" tvg-logo="" group-title="USA PREMIUM",US: BET Her
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210266
+#EXTINF:-1 tvg-id="" tvg-name="US: BET JAMS" tvg-logo="" group-title="USA PREMIUM",US: BET JAMS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210289
+#EXTINF:-1 tvg-id="" tvg-name="US: BET Soul" tvg-logo="" group-title="USA PREMIUM",US: BET Soul
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210290
+#EXTINF:-1 tvg-id="" tvg-name="US: Big Ten Network" tvg-logo="http://boxdigital.xyz:8080/images/0d697997ad8871f838732fefeb77005f.png" group-title="USA PREMIUM",US: Big Ten Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210292
+#EXTINF:-1 tvg-id="" tvg-name="US: Bloomberg Television" tvg-logo="" group-title="USA PREMIUM",US: Bloomberg Television
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210304
+#EXTINF:-1 tvg-id="" tvg-name="US: BOOMERANG" tvg-logo="" group-title="USA PREMIUM",US: BOOMERANG
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210315
+#EXTINF:-1 tvg-id="" tvg-name="US: Bravo" tvg-logo="" group-title="USA PREMIUM",US: Bravo
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210256
+#EXTINF:-1 tvg-id="" tvg-name="US: CANAL MOTOR ᴴᴰ" tvg-logo="http://starsat123.com:8080/images/aa9d1cfe168c7c512da1141badaab576.png" group-title="USA PREMIUM",US: CANAL MOTOR ᴴᴰ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210197
+#EXTINF:-1 tvg-id="" tvg-name="US: Cheddar Stream" tvg-logo="http://boxdigital.xyz:8080/images/ea7fbd1492eb552680c878f30e06117e.png" group-title="USA PREMIUM",US: Cheddar Stream
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210332
+#EXTINF:-1 tvg-id="" tvg-name="US: CinemaX ActionMaX East" tvg-logo="http://tvstar.live:8880/chimg/6334776106.png" group-title="USA PREMIUM",US: CinemaX ActionMaX East
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210215
+#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX FHD" tvg-logo="http://starsat123.com:8080/images/8dd533be962688d6edece35a97f530a1.png" group-title="USA PREMIUM",US: CINEMAX FHD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210186
+#EXTINF:-1 tvg-id="" tvg-name="US: CMT" tvg-logo="" group-title="USA PREMIUM",US: CMT
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210232
+#EXTINF:-1 tvg-id="" tvg-name="US: CNN" tvg-logo="" group-title="USA PREMIUM",US: CNN
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210255
+#EXTINF:-1 tvg-id="" tvg-name="US: COMEDY CENTRAL FHD" tvg-logo="http://starsat123.com:8080/images/70843c1e7a308d33a8d44c30e38240dc.png" group-title="USA PREMIUM",US: COMEDY CENTRAL FHD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210193
+#EXTINF:-1 tvg-id="" tvg-name="US: Court TV" tvg-logo="http://boxdigital.xyz:8080/images/bde81caa472d691e47035e9248c3aef7.png" group-title="USA DOCUMENTALS",US: Court TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210347
+#EXTINF:-1 tvg-id="" tvg-name="US: COURT TV MYSTERY" tvg-logo="https://www.cspire.com/resources/images/fiberhome/super_hdtv/tv-guide/logo-court-tv.png" group-title="USA PREMIUM",US: COURT TV MYSTERY
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210312
+#EXTINF:-1 tvg-id="" tvg-name="US: Destination America HD" tvg-logo="http://boxdigital.xyz:8080/images/ea1f019beef3d24fe42fbbdd6146ec67.png" group-title="USA DOCUMENTALS",US: Destination America HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210348
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Channel East" tvg-logo="http://boxdigital.xyz:8080/images/4acc8ccd379cfb13f9bff1c4b0e3ed92.png" group-title="USA DOCUMENTALS",US: Discovery Channel East
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210349
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Channel HD" tvg-logo="http://boxdigital.xyz:8080/images/1dec4e48775ee39be28a614db9e1f1b2.png" group-title="USA DOCUMENTALS",US: Discovery Channel HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210350
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Family" tvg-logo="http://boxdigital.xyz:8080/images/939f167b41e0dfd44173e63211943751.png" group-title="USA DOCUMENTALS",US: Discovery Family
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210354
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Life HD" tvg-logo="http://boxdigital.xyz:8080/images/945aa21f4cd25e635520447936623e7b.png" group-title="USA DOCUMENTALS",US: Discovery Life HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210351
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Science HD" tvg-logo="http://boxdigital.xyz:8080/images/da76191fddfb54da3c47d7c093930887.png" group-title="USA DOCUMENTALS",US: Discovery Science HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210355
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Velocity HD" tvg-logo="http://boxdigital.xyz:8080/images/b6739f0a2506a0b4e7c02442161e02fe.png" group-title="USA DOCUMENTALS",US: Discovery Velocity HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210352
+#EXTINF:-1 tvg-id="" tvg-name="US: Disney XD" tvg-logo="" group-title="USA PREMIUM",US: Disney XD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210309
+#EXTINF:-1 tvg-id="" tvg-name="US: Diy Network HD" tvg-logo="http://boxdigital.xyz:8080/images/ce527fcc2a714978e34bc7759ab6159c.png" group-title="USA DOCUMENTALS",US: Diy Network HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210353
+#EXTINF:-1 tvg-id="" tvg-name="US: DOGTV" tvg-logo="" group-title="USA PREMIUM",US: DOGTV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210307
+#EXTINF:-1 tvg-id="" tvg-name="US: E!" tvg-logo="" group-title="USA PREMIUM",US: E!
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210254
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN" tvg-logo="" group-title="USA PREMIUM",US: ESPN
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210250
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2" tvg-logo="" group-title="USA PREMIUM",US: ESPN 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210249
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPNEWS" tvg-logo="" group-title="USA PREMIUM",US: ESPNEWS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210297
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPNU" tvg-logo="" group-title="USA PREMIUM",US: ESPNU
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210303
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Business Network" tvg-logo="http://boxdigital.xyz:8080/images/1d361ed0b12930468243ecb8bcff79b7.png" group-title="USA PREMIUM",US: FOX Business Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210331
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Deportes HD" tvg-logo="" group-title="USA PREMIUM",US: FOX Deportes HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210253
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX News" tvg-logo="" group-title="USA PREMIUM",US: FOX News
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210230
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Soccer plus" tvg-logo="" group-title="USA PREMIUM",US: FOX Soccer plus
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210248
+#EXTINF:-1 tvg-id="" tvg-name="US: FREEFORM" tvg-logo="" group-title="USA PREMIUM",US: FREEFORM
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210227
+#EXTINF:-1 tvg-id="" tvg-name="US: FUSE" tvg-logo="" group-title="USA PREMIUM",US: FUSE
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210228
+#EXTINF:-1 tvg-id="" tvg-name="US: FX" tvg-logo="" group-title="USA PREMIUM",US: FX
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210220
+#EXTINF:-1 tvg-id="" tvg-name="US: FXM" tvg-logo="" group-title="USA PREMIUM",US: FXM
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210236
+#EXTINF:-1 tvg-id="" tvg-name="US: FXX ᴴᴰ" tvg-logo="http://starsat123.com:8080/images/6011500cc2ad3dd4ad8176fdb1b08619.jpg" group-title="USA PREMIUM",US: FXX ᴴᴰ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210194
+#EXTINF:-1 tvg-id="" tvg-name="US: FYI HD" tvg-logo="http://starsat123.com:8080/images/6f41d3f003262e8b1a47808488f1b890.png" group-title="USA PREMIUM",US: FYI HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210195
+#EXTINF:-1 tvg-id="" tvg-name="US: Galavision" tvg-logo="" group-title="USA PREMIUM",US: Galavision
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210262
+#EXTINF:-1 tvg-id="" tvg-name="US: GSN HD" tvg-logo="" group-title="USA PREMIUM",US: GSN HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210252
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Channel" tvg-logo="" group-title="USA PREMIUM",US: Hallmark Channel
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210242
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Drama" tvg-logo="" group-title="USA PREMIUM",US: Hallmark Drama
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210241
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Movies & Mysteries" tvg-logo="" group-title="USA PREMIUM",US: Hallmark Movies & Mysteries
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210288
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO" tvg-logo="" group-title="USA PREMIUM",US: HBO
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210238
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO 2 COMEDY" tvg-logo="http://starsat123.com:8080/images/344f9b864598c1d1fd43496f1b7bc81a.jpg" group-title="USA PREMIUM",US: HBO 2 COMEDY
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210192
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO COMEDY" tvg-logo="" group-title="USA PREMIUM",US: HBO COMEDY
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210319
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO FAMILY HD" tvg-logo="http://boxdigital.xyz:8080/images/0aeeb5194a28a72eda8a133933904688.png" group-title="USA PREMIUM",US: HBO FAMILY HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210185
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO LATINO" tvg-logo="" group-title="USA PREMIUM",US: HBO LATINO
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210320
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO SIGNATURE HD" tvg-logo="http://boxdigital.xyz:8080/images/70d62bc7b296f2903190563136aa052f.png" group-title="USA PREMIUM",US: HBO SIGNATURE HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210184
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO WEST" tvg-logo="http://tvstar.live:8880/chimg/2367787837.png" group-title="USA PREMIUM",US: HBO WEST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210212
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO ZONE" tvg-logo="" group-title="USA PREMIUM",US: HBO ZONE
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210198
+#EXTINF:-1 tvg-id="" tvg-name="US: HDNet Movies" tvg-logo="" group-title="USA PREMIUM",US: HDNet Movies
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210300
+#EXTINF:-1 tvg-id="" tvg-name="US: HgTV (west)" tvg-logo="http://boxdigital.xyz:8080/images/139370e1bc32f72794152e65499e2082.png" group-title="USA DOCUMENTALS",US: HgTV (west)
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210357
+#EXTINF:-1 tvg-id="" tvg-name="US: HgTV HD" tvg-logo="http://boxdigital.xyz:8080/images/2ea031f252c8366c40e168dd977be704.png" group-title="USA DOCUMENTALS",US: HgTV HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210358
+#EXTINF:-1 tvg-id="" tvg-name="US: History Channel FHD" tvg-logo="http://boxdigital.xyz:8080/images/b8ad5e70f03f3c4e4fd0ac584e2f7252.png" group-title="USA DOCUMENTALS",US: History Channel FHD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210356
+#EXTINF:-1 tvg-id="" tvg-name="US: HLN" tvg-logo="" group-title="USA PREMIUM",US: HLN
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210240
+#EXTINF:-1 tvg-id="" tvg-name="US: IFC" tvg-logo="" group-title="USA PREMIUM",US: IFC
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210239
+#EXTINF:-1 tvg-id="" tvg-name="US: INDIE PLEX" tvg-logo="" group-title="USA PREMIUM",US: INDIE PLEX
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210283
+#EXTINF:-1 tvg-id="" tvg-name="US: Investigation Discovery East" tvg-logo="http://boxdigital.xyz:8080/images/d4287c02e81590d223383389bf10416f.png" group-title="USA DOCUMENTALS",US: Investigation Discovery East
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210359
+#EXTINF:-1 tvg-id="" tvg-name="US: Ion TV" tvg-logo="" group-title="USA PREMIUM",US: Ion TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210199
+#EXTINF:-1 tvg-id="" tvg-name="US: KTLA 5" tvg-logo="" group-title="USA PREMIUM",US: KTLA 5
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210314
+#EXTINF:-1 tvg-id="" tvg-name="US: Law & Crime Network" tvg-logo="http://boxdigital.xyz:8080/images/e8664e15c9d30521fd9217707d0eba4c.png" group-title="USA DOCUMENTALS",US: Law & Crime Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210361
+#EXTINF:-1 tvg-id="" tvg-name="US: Lifetime HD" tvg-logo="http://boxdigital.xyz:8080/images/15bde2b1cbfc3c128b338cccf5e6fb15.png" group-title="USA DOCUMENTALS",US: Lifetime HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210360
+#EXTINF:-1 tvg-id="" tvg-name="US: MGM+" tvg-logo="" group-title="USA PREMIUM",US: MGM+
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210265
+#EXTINF:-1 tvg-id="" tvg-name="US: MGM+ HITS" tvg-logo="" group-title="USA PREMIUM",US: MGM+ HITS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210263
+#EXTINF:-1 tvg-id="" tvg-name="US: MGM+ MARQUEE" tvg-logo="" group-title="USA PREMIUM",US: MGM+ MARQUEE
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210264
+#EXTINF:-1 tvg-id="" tvg-name="US: MoreMax" tvg-logo="" group-title="USA PREMIUM",US: MoreMax
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210323
+#EXTINF:-1 tvg-id="" tvg-name="US: MOTOR TREND" tvg-logo="https://wpapi.motortrendondemand.com/wp-content/uploads/motortrend-og.png" group-title="USA PREMIUM",US: MOTOR TREND
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210313
+#EXTINF:-1 tvg-id="" tvg-name="US: MoviePlex" tvg-logo="" group-title="USA PREMIUM",US: MoviePlex
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210306
+#EXTINF:-1 tvg-id="" tvg-name="US: MSG" tvg-logo="" group-title="USA PREMIUM",US: MSG
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210284
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV" tvg-logo="" group-title="USA PREMIUM",US: MTV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210273
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV 2" tvg-logo="" group-title="USA PREMIUM",US: MTV 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210272
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV Classic" tvg-logo="" group-title="USA PREMIUM",US: MTV Classic
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210287
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV Live" tvg-logo="" group-title="USA PREMIUM",US: MTV Live
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210286
+#EXTINF:-1 tvg-id="" tvg-name="US: MTV U" tvg-logo="" group-title="USA PREMIUM",US: MTV U
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210285
+#EXTINF:-1 tvg-id="" tvg-name="US: National Geographic Channel" tvg-logo="http://boxdigital.xyz:8080/images/e9c0b967c0f78a0c83e88cb7fe750441.png" group-title="USA DOCUMENTALS",US: National Geographic Channel
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210363
+#EXTINF:-1 tvg-id="" tvg-name="US: National Geographic Wild" tvg-logo="http://boxdigital.xyz:8080/images/5f16d1abf9a462dcfe4d4ece9a0804a6.png" group-title="USA DOCUMENTALS",US: National Geographic Wild
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210362
+#EXTINF:-1 tvg-id="" tvg-name="US: NBA TV" tvg-logo="" group-title="USA PREMIUM",US: NBA TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210247
+#EXTINF:-1 tvg-id="" tvg-name="US: NESN" tvg-logo="" group-title="USA PREMIUM",US: NESN
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210244
+#EXTINF:-1 tvg-id="" tvg-name="US: Newsy" tvg-logo="http://boxdigital.xyz:8080/images/ead3ab16579c944f4354a81ea09987b5.png" group-title="USA PREMIUM",US: Newsy
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210334
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL NETWORK" tvg-logo="" group-title="USA PREMIUM",US: NFL NETWORK
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210245
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL REDZONE" tvg-logo="http://home-playtv.com:25461/images/a05a49fdf349e8ecf9c28fc53102a5f0.png" group-title="USA PREMIUM",US: NFL REDZONE
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210154
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://www.thesportsdb.com/images/media/logo/uvrxut1433429052.png" group-title="USA PREMIUM",US: NHL Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210269
+#EXTINF:-1 tvg-id="" tvg-name="US: Nick Jr" tvg-logo="" group-title="USA PREMIUM",US: Nick Jr
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210235
+#EXTINF:-1 tvg-id="" tvg-name="US: NICK JR WEST" tvg-logo="http://boxdigital.xyz:8080/images/5bbf39a28b02248c39a46a5cff29ba02.png" group-title="USA KIDS Y FAMILY",US: NICK JR WEST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210335
+#EXTINF:-1 tvg-id="" tvg-name="US: Nickelodeon" tvg-logo="" group-title="USA PREMIUM",US: Nickelodeon
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210233
+#EXTINF:-1 tvg-id="" tvg-name="US: NICKTOONS HD" tvg-logo="http://boxdigital.xyz:8080/images/47090f9c126e8489d3fa039562604083.png" group-title="USA PREMIUM",US: NICKTOONS HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210183
+#EXTINF:-1 tvg-id="" tvg-name="US: OLYMPIC CHANNEL" tvg-logo="" group-title="USA PREMIUM",US: OLYMPIC CHANNEL
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210281
+#EXTINF:-1 tvg-id="" tvg-name="US: ONE AMERICA NEWS" tvg-logo="http://platinumxmedia.xyz:8080/images/aa20487bc9b65d2f6aed83f98d7a7657.png" group-title="USA PREMIUM",US: ONE AMERICA NEWS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210326
+#EXTINF:-1 tvg-id="" tvg-name="US: Outdoor Channel HD" tvg-logo="http://boxdigital.xyz:8080/images/64ad18ffec270c2d6bc8bc3ee1e7878a.png" group-title="USA DOCUMENTALS",US: Outdoor Channel HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210364
+#EXTINF:-1 tvg-id="" tvg-name="US: Outdoor ᴴᴰ" tvg-logo="http://boxdigital.xyz:8080/images/1558b5bf397efe3a0a8c88c3e86d8d35.png" group-title="USA DOCUMENTALS",US: Outdoor ᴴᴰ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210365
+#EXTINF:-1 tvg-id="" tvg-name="US: OUTERMAX" tvg-logo="" group-title="USA PREMIUM",US: OUTERMAX
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210328
+#EXTINF:-1 tvg-id="" tvg-name="US: OUTSIDE TV" tvg-logo="" group-title="USA PREMIUM",US: OUTSIDE TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210330
+#EXTINF:-1 tvg-id="" tvg-name="US: OVATION" tvg-logo="http://platinumxmedia.xyz:8080/images/b41419a0f2668372b0de1c0727bf3495.png" group-title="USA PREMIUM",US: OVATION
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210327
+#EXTINF:-1 tvg-id="" tvg-name="US: OWN" tvg-logo="" group-title="USA PREMIUM",US: OWN
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210226
+#EXTINF:-1 tvg-id="" tvg-name="US: OXYGEN" tvg-logo="" group-title="USA PREMIUM",US: OXYGEN
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210224
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac-12 Arizona" tvg-logo="http://boxdigital.xyz:8080/images/48c192631e28cab67f3fa220e38d586c.png" group-title="USA PREMIUM",US: Pac-12 Arizona
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210274
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac-12 Bay Area" tvg-logo="http://boxdigital.xyz:8080/images/f2a4a6a0a8dc36e22f053ee3b98873be.png" group-title="USA PREMIUM",US: Pac-12 Bay Area
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210275
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac-12 Los Angeles" tvg-logo="http://boxdigital.xyz:8080/images/c75b492ba032be337797d3e04a2dfe89.png" group-title="USA PREMIUM",US: Pac-12 Los Angeles
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210276
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac-12 Mountain" tvg-logo="http://boxdigital.xyz:8080/images/06b6ba6e1264d665515753ea6f34debf.png" group-title="USA PREMIUM",US: Pac-12 Mountain
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210277
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac-12 Network" tvg-logo="http://boxdigital.xyz:8080/images/8f0ffc14148b643a4b06e1a5e70f7890.png" group-title="USA PREMIUM",US: Pac-12 Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210278
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac-12 Oregon" tvg-logo="http://boxdigital.xyz:8080/images/f37334d8b81b332f60f6c92757791247.png" group-title="USA PREMIUM",US: Pac-12 Oregon
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210279
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac-12 Washington" tvg-logo="http://boxdigital.xyz:8080/images/86b4a182401012cb3be50de6e4b92f61.png" group-title="USA PREMIUM",US: Pac-12 Washington
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210280
+#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT NETWORK" tvg-logo="" group-title="USA PREMIUM",US: PARAMOUNT NETWORK
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210223
+#EXTINF:-1 tvg-id="" tvg-name="US: PBS AMERICA" tvg-logo="http://starsat123.com:8080/images/f13594e09cbba8986323e3cf52d2a445.jpg" group-title="USA PREMIUM",US: PBS AMERICA
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210196
+#EXTINF:-1 tvg-id="" tvg-name="US: PBS KIDS" tvg-logo="" group-title="USA PREMIUM",US: PBS KIDS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210318
+#EXTINF:-1 tvg-id="" tvg-name="US: PixL" tvg-logo="" group-title="USA PREMIUM",US: PixL
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210296
+#EXTINF:-1 tvg-id="" tvg-name="US: Pop" tvg-logo="" group-title="USA PREMIUM",US: Pop
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210234
+#EXTINF:-1 tvg-id="" tvg-name="US: Pursuit" tvg-logo="http://boxdigital.xyz:8080/images/ec019e7040b868c1ade4c2f6a18f8d5c.png" group-title="USA DOCUMENTALS",US: Pursuit
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210366
+#EXTINF:-1 tvg-id="" tvg-name="US: RetroPlex" tvg-logo="" group-title="USA PREMIUM",US: RetroPlex
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210299
+#EXTINF:-1 tvg-id="" tvg-name="US: SEC NETWORK" tvg-logo="" group-title="USA PREMIUM",US: SEC NETWORK
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210333
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime 2" tvg-logo="" group-title="USA PREMIUM",US: Showtime 2
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210295
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Family Zone" tvg-logo="" group-title="USA PREMIUM",US: Showtime Family Zone
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210298
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Next" tvg-logo="" group-title="USA PREMIUM",US: Showtime Next
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210302
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Showcase" tvg-logo="" group-title="USA PREMIUM",US: Showtime Showcase
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210301
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Women" tvg-logo="" group-title="USA PREMIUM",US: Showtime Women
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210293
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOxBET" tvg-logo="" group-title="USA PREMIUM",US: SHOxBET
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210321
+#EXTINF:-1 tvg-id="" tvg-name="US: SONY MOVIE CHANNEL" tvg-logo="" group-title="USA PREMIUM",US: SONY MOVIE CHANNEL
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210317
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ" tvg-logo="http://starsat123.com:8080/images/b45220c396423f677c7a029f3c6955e5.jpg" group-title="USA PREMIUM",US: STARZ
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210187
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz" tvg-logo="" group-title="USA PREMIUM",US: Starz
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210294
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Cinema" tvg-logo="http://starsat123.com:8080/images/b45220c396423f677c7a029f3c6955e5.jpg" group-title="USA PREMIUM",US: Starz Cinema
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210188
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ COMEDY" tvg-logo="http://starsat123.com:8080/images/b45220c396423f677c7a029f3c6955e5.jpg" group-title="USA PREMIUM",US: STARZ COMEDY
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210190
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore" tvg-logo="" group-title="USA PREMIUM",US: Starz Encore
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210308
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE Black" tvg-logo="" group-title="USA PREMIUM",US: STARZ ENCORE Black
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210261
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE Classic" tvg-logo="" group-title="USA PREMIUM",US: STARZ ENCORE Classic
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210260
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE Family" tvg-logo="" group-title="USA PREMIUM",US: STARZ ENCORE Family
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210259
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE Westerns" tvg-logo="" group-title="USA PREMIUM",US: STARZ ENCORE Westerns
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210258
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz in Black" tvg-logo="" group-title="USA PREMIUM",US: Starz in Black
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210324
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ Kids & Family" tvg-logo="" group-title="USA PREMIUM",US: STARZ Kids & Family
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210257
+#EXTINF:-1 tvg-id="" tvg-name="US: StarzEncore Español" tvg-logo="" group-title="USA PREMIUM",US: StarzEncore Español
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210325
+#EXTINF:-1 tvg-id="" tvg-name="US: Sundance" tvg-logo="" group-title="USA PREMIUM",US: Sundance
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210237
+#EXTINF:-1 tvg-id="" tvg-name="US: SYFY" tvg-logo="" group-title="USA PREMIUM",US: SYFY
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210217
+#EXTINF:-1 tvg-id="" tvg-name="US: TBS" tvg-logo="" group-title="USA PREMIUM",US: TBS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210219
+#EXTINF:-1 tvg-id="" tvg-name="US: Telemundo Boston" tvg-logo="" group-title="USA PREMIUM",US: Telemundo Boston
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210271
+#EXTINF:-1 tvg-id="" tvg-name="US: Tennis Channel HD" tvg-logo="" group-title="USA PREMIUM",US: Tennis Channel HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210251
+#EXTINF:-1 tvg-id="" tvg-name="US: THE COWBOY CHANNEL" tvg-logo="" group-title="USA PREMIUM",US: THE COWBOY CHANNEL
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210329
+#EXTINF:-1 tvg-id="" tvg-name="US: The Golf Channel" tvg-logo="" group-title="USA PREMIUM",US: The Golf Channel
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210246
+#EXTINF:-1 tvg-id="" tvg-name="US: THRILLERMAX" tvg-logo="" group-title="USA PREMIUM",US: THRILLERMAX
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210282
+#EXTINF:-1 tvg-id="" tvg-name="US: TLC" tvg-logo="" group-title="USA PREMIUM",US: TLC
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210222
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT" tvg-logo="" group-title="USA PREMIUM",US: TNT
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210218
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT HD" tvg-logo="http://boxdigital.xyz:8080/images/4e82423cec61337d0ae688cf33c8f2f1.png" group-title="USA PREMIUM",US: TNT HD
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210214
+#EXTINF:-1 tvg-id="" tvg-name="US: Travel Channel West" tvg-logo="http://boxdigital.xyz:8080/images/320fb26adefe808b8dcc0eac8b58025a.png" group-title="USA DOCUMENTALS",US: Travel Channel West
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210367
+#EXTINF:-1 tvg-id="" tvg-name="US: TV LAND" tvg-logo="" group-title="USA PREMIUM",US: TV LAND
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210225
+#EXTINF:-1 tvg-id="" tvg-name="US: USA Network" tvg-logo="" group-title="USA PREMIUM",US: USA Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210216
+#EXTINF:-1 tvg-id="" tvg-name="US: VH1" tvg-logo="" group-title="USA PREMIUM",US: VH1
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210231
+#EXTINF:-1 tvg-id="" tvg-name="US: Viceland" tvg-logo="http://boxdigital.xyz:8080/images/07511dd9fabd254d4b38ce177220d224.png" group-title="USA DOCUMENTALS",US: Viceland
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210368
+#EXTINF:-1 tvg-id="" tvg-name="US: WWE NETWORK 24/7" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://www.thesportsdb.com/images/media/logo/WWE_Network.png" group-title="USA PREMIUM",US: WWE NETWORK 24/7
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210270
+#EXTINF:-1 tvg-id="" tvg-name="USA : BALLY SPORTS NEW ORLEANS PLUS" tvg-logo="http://boxdigital.xyz:8080/images/ff554c87c8c21160b768c9580cfd0a1d.png" group-title="USA PREMIUM",USA : BALLY SPORTS NEW ORLEANS PLUS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210160
+#EXTINF:-1 tvg-id="" tvg-name="USA | Fox Deportes" tvg-logo="http://boxdigital.xyz:8080/images/d268fd9219114767768c11e393acce64.png" group-title="USA PREMIUM",USA | Fox Deportes
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210155
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO" tvg-logo="" group-title="USA PREMIUM",USA | HBO
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210213
+#EXTINF:-1 tvg-id="" tvg-name="USA | MSG" tvg-logo="" group-title="USA PREMIUM",USA | MSG
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210166
+#EXTINF:-1 tvg-id="" tvg-name="USA: ALTITUDE SPORTS" tvg-logo="http://iptvboss.xyz/logos/USA_Networks_Sports/AltitudeSports.us.png" group-title="USA PREMIUM",USA: ALTITUDE SPORTS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210161
+#EXTINF:-1 tvg-id="" tvg-name="USA: AT&T SPORTSNET PITT" tvg-logo="http://boxdigital.xyz:8080/images/3b83050848bedd48be3fcab525ea92a8.png" group-title="USA PREMIUM",USA: AT&T SPORTSNET PITT
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210162
+#EXTINF:-1 tvg-id="" tvg-name="USA: ATT SPORTSNET SW" tvg-logo="http://iptvboss.xyz/logos/USA%20Networks%20and%20Sports/ATTSWHD.png" group-title="USA PREMIUM",USA: ATT SPORTSNET SW
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210163
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS ARIZONA PLUS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-arizona-plus-us.png" group-title="USA PREMIUM",USA: BALLY SPORTS ARIZONA PLUS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210159
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS SOUTHEAST" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-southeast-us.png" group-title="USA PREMIUM",USA: BALLY SPORTS SOUTHEAST
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210164
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS SOUTHWEST PLUS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-southwest-us.png" group-title="USA PREMIUM",USA: BALLY SPORTS SOUTHWEST PLUS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210165
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cgtn Doc" tvg-logo="http://boxdigital.xyz:8080/images/96ffee29b843bbc63d5f50f321904097.png" group-title="USA DOCUMENTALS",USA: Cgtn Doc
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210346
+#EXTINF:-1 tvg-id="" tvg-name="USA: ROOT SPORT NW" tvg-logo="http://iptvboss.xyz/logos/USA_Networks_Sports/ROOTSportsNorthwest.us.png" group-title="USA PREMIUM",USA: ROOT SPORT NW
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210158
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPECTRUM SPORTSNET LAKERS" tvg-logo="http://iptvboss.xyz/logos/USA_Networks_Sports/SpectrumSportsNetLALakers.us.png" group-title="USA PREMIUM",USA: SPECTRUM SPORTSNET LAKERS
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210157
+#EXTINF:-1 tvg-id="" tvg-name="USA: STARZ ENCORE ACTION" tvg-logo="http://boxdigital.xyz:8080/images/7f211d5abc0c3b6d8040c0f2f7b3d5c7.png" group-title="USA PREMIUM",USA: STARZ ENCORE ACTION
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210189
+#EXTINF:-1 tvg-id="" tvg-name="USA: WILLOW CRICKET" tvg-logo="http://iptvboss.xyz/logos/USA_Networks_Sports/WillowCricket.us.png" group-title="USA PREMIUM",USA: WILLOW CRICKET
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210156
+#EXTINF:-1 tvg-id="" tvg-name="WE TV" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/330.png" group-title="USA PREMIUM",WE TV
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210150
+#EXTINF:-1 tvg-id="" tvg-name="WORLD FISHING NETWORK" tvg-logo="https://static.iptv-epg.com/ca/WorldFishingNetwork.ca.png" group-title="USA PREMIUM",WORLD FISHING NETWORK
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210151
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="http://boxdigital.xyz:8080/images/065a046f47b1d2834d8d669996ab32db.png" group-title="USA PREMIUM",WWE Network
+http://pro.boxdigital.org:8080/portenolatino/Irf5g4nXop/210152
